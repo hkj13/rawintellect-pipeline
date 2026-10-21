@@ -1,0 +1,149 @@
+{
+  "id": "004-taller-in-the-morning",
+  "title": "You shrink every single day",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You are taller when you wake up than when you go to bed.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "taller",
+          "every",
+          "morning"
+        ]
+      },
+      "emphasis": [
+        "taller"
+      ]
+    },
+    {
+      "text": "Every day you shrink, and every night you grow back.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "shrink",
+          "grow back"
+        ],
+        "highlight": 1
+      },
+      "emphasis": [
+        "shrink,",
+        "grow"
+      ]
+    },
+    {
+      "text": "Between the bones of your spine sit soft discs, full of water.",
+      "visual": {
+        "type": "spine",
+        "mode": "grow",
+        "label": "spinal discs"
+      },
+      "emphasis": [
+        "discs,"
+      ]
+    },
+    {
+      "text": "Standing and walking all day squeezes water out of them, and they flatten.",
+      "visual": {
+        "type": "spine",
+        "mode": "squeeze",
+        "label": "daytime"
+      },
+      "emphasis": [
+        "flatten."
+      ]
+    },
+    {
+      "text": "Lying down at night lets them soak it back up.",
+      "visual": {
+        "type": "spine",
+        "mode": "grow",
+        "label": "overnight"
+      },
+      "emphasis": [
+        "soak"
+      ]
+    },
+    {
+      "text": "The difference is roughly a centimetre, and in children it can be even more.",
+      "visual": {
+        "type": "number",
+        "value": 1,
+        "label": "lost by evening, roughly",
+        "suffix": " CM"
+      },
+      "emphasis": [
+        "centimetre,"
+      ]
+    },
+    {
+      "text": "In space it's extreme. Without gravity, astronauts can grow up to 3% taller.",
+      "visual": {
+        "type": "number",
+        "value": 3,
+        "label": "taller in space",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "3%"
+      ]
+    },
+    {
+      "text": "It wears off within months of coming back to Earth.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "temporary"
+      },
+      "emphasis": [
+        "months"
+      ]
+    },
+    {
+      "text": "So if you ever want to be measured at your tallest, do it first thing in the morning.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "measure",
+          "in the",
+          "morning"
+        ]
+      },
+      "emphasis": [
+        "morning."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Height drops during the day as intervertebral discs lose fluid; mean 10.8 mm daily loss measured in adolescents",
+      "url": "https://actaorthop.org/actao/article/download/23671/27623/72401"
+    },
+    {
+      "claim": "Children lost a mean 31 mm between morning and afternoon (Voss and Bailey)",
+      "url": "https://adc.bmj.com/content/78/4/395.8"
+    },
+    {
+      "claim": "Astronauts can grow up to 3% taller in microgravity, returning to normal within months",
+      "url": "https://scientificamerican.com/article/astronauts-get-taller-in-space"
+    }
+  ],
+  "publish": {
+    "title": "You Shrink Every Single Day 📏",
+    "description": "You're taller in the morning than at night, and astronauts get up to 3% taller in space. Here's what your spine is doing.",
+    "hashtags": [
+      "shorts",
+      "humanbody",
+      "sciencefacts",
+      "didyouknow",
+      "spine"
+    ],
+    "pinned_comment": "Try it: measure yourself tonight and tomorrow morning. How much did you shrink? 👇"
+  }
+}

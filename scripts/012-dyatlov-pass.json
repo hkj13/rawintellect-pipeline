@@ -1,0 +1,157 @@
+{
+  "id": "012-dyatlov-pass",
+  "title": "Nine hikers fled their tent into the snow",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1959, nine experienced hikers cut their way out of their own tent and ran into the snow.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "skull"
+        ],
+        "label": "Dyatlov Pass, 1959"
+      },
+      "emphasis": [
+        "cut",
+        "snow."
+      ]
+    },
+    {
+      "text": "It happened on a slope in Russia's northern Ural Mountains.",
+      "visual": {
+        "type": "pin",
+        "place": "Northern Urals",
+        "detail": "1 to 2 February 1959",
+        "dx": 80
+      },
+      "emphasis": [
+        "Ural"
+      ]
+    },
+    {
+      "text": "Investigators found the tent slashed open from the inside.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "cut from",
+          "inside"
+        ]
+      },
+      "emphasis": [
+        "inside."
+      ]
+    },
+    {
+      "text": "Many were barely dressed, some in socks or one shoe, at around minus thirty degrees.",
+      "visual": {
+        "type": "number",
+        "value": -30,
+        "label": "degrees celsius, or colder",
+        "suffix": "°",
+        "from": 0
+      },
+      "emphasis": [
+        "minus",
+        "thirty"
+      ]
+    },
+    {
+      "text": "Six died of hypothermia. Three had severe injuries, like skull and chest fractures.",
+      "visual": {
+        "type": "people",
+        "total": 9,
+        "highlight": 3,
+        "label": "had severe injuries"
+      },
+      "emphasis": [
+        "Six",
+        "Three"
+      ]
+    },
+    {
+      "text": "For decades, people blamed everything from secret weapons to aliens.",
+      "visual": {
+        "type": "question",
+        "label": "weapons? aliens?"
+      },
+      "emphasis": [
+        "aliens."
+      ]
+    },
+    {
+      "text": "In 2020, Russian prosecutors officially blamed an avalanche.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "avalanche?"
+        ]
+      },
+      "emphasis": [
+        "avalanche."
+      ]
+    },
+    {
+      "text": "And in 2021, scientists simulated how a small slab of snow could crush a tent and cause injuries like these.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1959",
+            "label": "nine die"
+          },
+          {
+            "year": "2020",
+            "label": "avalanche ruling"
+          },
+          {
+            "year": "2021",
+            "label": "slab simulation"
+          }
+        ]
+      },
+      "emphasis": [
+        "slab"
+      ]
+    },
+    {
+      "text": "But many still don't believe it. Why would nine experts run into the dark without their boots?",
+      "visual": {
+        "type": "question",
+        "label": "why run?"
+      },
+      "emphasis": [
+        "boots?"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "1 or 2 February 1959, nine hikers died in the northern Urals; tent cut open from inside; many partly dressed; about −25 to −30 °C",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident"
+    },
+    {
+      "claim": "Six died of hypothermia, three of fatal trauma (skull and chest injuries)",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident"
+    },
+    {
+      "claim": "2020 prosecutor ruling: avalanche; 2021 Gaume and Puzrin slab-avalanche simulation",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident"
+    }
+  ],
+  "publish": {
+    "title": "Nine Hikers Cut Their Tent Open and Ran Into the Snow 🏔️",
+    "description": "Dyatlov Pass, 1959. Nine experienced hikers, a tent slashed from inside, and injuries nobody could explain for 60 years.",
+    "hashtags": [
+      "shorts",
+      "mystery",
+      "dyatlovpass",
+      "unsolved",
+      "history"
+    ],
+    "pinned_comment": "Avalanche, or something else? What do you think happened? 👇"
+  }
+}

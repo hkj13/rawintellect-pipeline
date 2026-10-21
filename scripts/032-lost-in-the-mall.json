@@ -1,0 +1,154 @@
+{
+  "id": "032-lost-in-the-mall",
+  "title": "How a false memory was planted",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Psychologists convinced adults they had been lost in a shopping mall as kids. It never happened.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "it",
+          "never",
+          "happened"
+        ]
+      },
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "text": "In 1995, Elizabeth Loftus and Jacqueline Pickrell gave 24 people a booklet of four childhood stories.",
+      "visual": {
+        "type": "people",
+        "total": 24,
+        "highlight": 0,
+        "label": "24 participants"
+      },
+      "emphasis": [
+        "1995,"
+      ]
+    },
+    {
+      "text": "Three were real, collected from their relatives.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "three",
+          "real"
+        ]
+      },
+      "emphasis": [
+        "real,"
+      ]
+    },
+    {
+      "text": "One was fake: getting lost in a mall and rescued by an elderly stranger.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "one",
+          "fake"
+        ]
+      },
+      "emphasis": [
+        "fake:"
+      ]
+    },
+    {
+      "text": "Over several days, people wrote down what they remembered.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "book"
+        ],
+        "label": "writing it down"
+      },
+      "emphasis": [
+        "remembered."
+      ]
+    },
+    {
+      "text": "About a quarter of them came to remember the fake event.",
+      "visual": {
+        "type": "people",
+        "total": 24,
+        "highlight": 6,
+        "label": "remembered the fake event"
+      },
+      "emphasis": [
+        "quarter"
+      ]
+    },
+    {
+      "text": "Their false memories were usually hazier than the real ones, but they felt real to them.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "hazy, but believed"
+      },
+      "emphasis": [
+        "felt",
+        "real"
+      ]
+    },
+    {
+      "text": "Critics argue it's harder to plant less believable events. But the point stands.",
+      "visual": {
+        "type": "split",
+        "left": "plausible: easier",
+        "right": "implausible: harder"
+      },
+      "emphasis": [
+        "harder"
+      ]
+    },
+    {
+      "text": "Memory isn't a recording. It's rebuilt every time you remember.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "memory",
+          "is",
+          "rebuilt"
+        ]
+      },
+      "emphasis": [
+        "rebuilt"
+      ]
+    },
+    {
+      "text": "So how sure are you about your earliest memory?",
+      "visual": {
+        "type": "question",
+        "label": "how sure are you?"
+      },
+      "emphasis": [
+        "sure"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Loftus and Pickrell (1995): 24 participants, four childhood narratives (one false: lost in a mall); about 25% remembered the false event; critics note plausibility matters",
+      "url": "https://en.wikipedia.org/wiki/Lost_in_the_mall_technique"
+    }
+  ],
+  "publish": {
+    "title": "Scientists Planted a Fake Childhood Memory 🧠",
+    "description": "The 1995 'lost in the mall' study showed how easily memories can be rebuilt. A quarter of people remembered something that never happened.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "falsememory",
+      "memory",
+      "loftus"
+    ],
+    "pinned_comment": "Do you have a memory you're not sure really happened? 👇"
+  }
+}

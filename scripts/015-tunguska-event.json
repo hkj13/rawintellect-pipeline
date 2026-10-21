@@ -1,0 +1,130 @@
+{
+  "id": "015-tunguska-event",
+  "title": "A blast flattened a forest and left no crater",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1908, something exploded over Siberia and flattened a forest the size of a city. It left no crater.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "tree"
+        ],
+        "label": "Tunguska, 1908"
+      },
+      "emphasis": [
+        "no",
+        "crater."
+      ]
+    },
+    {
+      "text": "It happened on the morning of June 30th, near the Tunguska River.",
+      "visual": {
+        "type": "pin",
+        "place": "Tunguska, Siberia",
+        "detail": "30 June 1908",
+        "dx": 90
+      },
+      "emphasis": [
+        "Tunguska"
+      ]
+    },
+    {
+      "text": "About 2,150 square kilometres of forest were knocked flat.",
+      "visual": {
+        "type": "number",
+        "value": 2150,
+        "label": "square kilometres flattened",
+        "suffix": " KM²"
+      },
+      "emphasis": [
+        "2,150"
+      ]
+    },
+    {
+      "text": "Estimates put the blast at several megatons, hundreds of times the Hiroshima bomb.",
+      "visual": {
+        "type": "number",
+        "value": 15,
+        "label": "megatons, mid estimate",
+        "suffix": " MT"
+      },
+      "emphasis": [
+        "hundreds"
+      ]
+    },
+    {
+      "text": "But when scientists finally reached the site, there was no impact crater at all.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "no",
+          "crater"
+        ]
+      },
+      "emphasis": [
+        "no",
+        "crater"
+      ]
+    },
+    {
+      "text": "The leading explanation: a space rock around 50 metres wide burst apart in the air, kilometres above the ground.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "an airburst, 5 to 10 km up"
+      },
+      "emphasis": [
+        "burst",
+        "air,"
+      ]
+    },
+    {
+      "text": "The shockwave did the damage, not an impact.",
+      "visual": {
+        "type": "wave",
+        "label": "shockwave"
+      },
+      "emphasis": [
+        "shockwave"
+      ]
+    },
+    {
+      "text": "And if it had arrived a few hours later, it could have hit a populated city.",
+      "visual": {
+        "type": "question",
+        "label": "what if it hits again?"
+      },
+      "emphasis": [
+        "city."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "30 June 1908 near the Podkamennaya Tunguska River; about 2,150 km² of forest flattened; no impact crater found",
+      "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+    },
+    {
+      "claim": "Energy estimates 3 to 50 megatons; leading explanation is an airburst of a 50 to 60 m stony asteroid 5 to 10 km up",
+      "url": "https://en.wikipedia.org/wiki/Tunguska_event"
+    }
+  ],
+  "publish": {
+    "title": "The Explosion That Flattened a Forest and Left No Crater 💥",
+    "description": "Siberia, 1908: 2,150 km² of forest knocked flat in an instant. No crater. Here's what scientists think happened.",
+    "hashtags": [
+      "shorts",
+      "mystery",
+      "tunguska",
+      "space",
+      "history"
+    ],
+    "pinned_comment": "Should we be worried about the next one? ☄️👇"
+  }
+}

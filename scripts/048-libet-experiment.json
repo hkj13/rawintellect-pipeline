@@ -1,0 +1,136 @@
+{
+  "id": "048-libet-experiment",
+  "title": "Does your brain decide before you do?",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Your brain might decide to move before you do.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "who",
+          "decides?"
+        ]
+      },
+      "emphasis": [
+        "before"
+      ]
+    },
+    {
+      "text": "In 1983, Benjamin Libet asked people to flick their wrist whenever they felt like it, while watching a fast clock.",
+      "visual": {
+        "type": "clock",
+        "hold": 0.3
+      },
+      "emphasis": [
+        "clock."
+      ]
+    },
+    {
+      "text": "They reported the moment they felt the urge.",
+      "visual": "same",
+      "emphasis": [
+        "urge."
+      ]
+    },
+    {
+      "text": "Brain activity linked to the movement started about half a second before it.",
+      "visual": {
+        "type": "number",
+        "value": 500,
+        "label": "ms before the move: brain activity",
+        "suffix": " MS"
+      },
+      "emphasis": [
+        "half"
+      ]
+    },
+    {
+      "text": "But people only felt the urge about 200 milliseconds before.",
+      "visual": {
+        "type": "number",
+        "value": 200,
+        "label": "ms before: you feel the urge",
+        "suffix": " MS"
+      },
+      "emphasis": [
+        "200"
+      ]
+    },
+    {
+      "text": "So the brain seemed to start roughly 300 milliseconds before the person was aware of choosing.",
+      "visual": {
+        "type": "compare",
+        "unit": " ms",
+        "left": {
+          "label": "you feel it",
+          "value": 200
+        },
+        "right": {
+          "label": "brain starts",
+          "value": 500
+        }
+      },
+      "emphasis": [
+        "300"
+      ]
+    },
+    {
+      "text": "Libet himself thought we could still veto the action at the last moment.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "free",
+          "won't"
+        ]
+      },
+      "emphasis": [
+        "veto"
+      ]
+    },
+    {
+      "text": "And later research argued that signal might just be random brain noise, not a hidden decision.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "random noise?"
+      },
+      "emphasis": [
+        "noise,"
+      ]
+    },
+    {
+      "text": "So do you make your choices, or just find out about them?",
+      "visual": {
+        "type": "question",
+        "label": "free will?"
+      },
+      "emphasis": [
+        "choices,"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Libet (1983): readiness potential ~500 ms before movement, conscious urge ~200 ms before, ~300 ms gap; Libet proposed a conscious veto; Schurger et al. (2012) proposed spontaneous neural fluctuations",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Libet"
+    }
+  ],
+  "publish": {
+    "title": "Does Your Brain Decide Before You Do? 🧠⏱️",
+    "description": "Libet's famous experiment found brain activity 300 ms before people felt they chose. But is it really decision?",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "freewill",
+      "neuroscience",
+      "philosophy"
+    ],
+    "pinned_comment": "Do you think we have free will? 👇"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "010-your-real-voice",
+  "title": "That is not what you sound like",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "That voice you hear on recordings? That's how everyone else hears you.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "that's",
+          "the real",
+          "you"
+        ]
+      },
+      "emphasis": [
+        "everyone"
+      ]
+    },
+    {
+      "text": "When you speak, sound reaches your inner ear in two ways.",
+      "visual": {
+        "type": "split",
+        "left": "through the air",
+        "right": "through your skull",
+        "leftIcon": "ear",
+        "rightIcon": "skull"
+      },
+      "emphasis": [
+        "two"
+      ]
+    },
+    {
+      "text": "Through the air, the same way everyone else hears it.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "ear"
+        ],
+        "label": "air conduction"
+      },
+      "emphasis": [
+        "air,"
+      ]
+    },
+    {
+      "text": "And through the bones of your head, straight to your inner ear.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "skull"
+        ],
+        "label": "bone conduction"
+      },
+      "emphasis": [
+        "bones"
+      ]
+    },
+    {
+      "text": "Your head boosts the deep, low tones on that second path.",
+      "visual": {
+        "type": "wave",
+        "spike": false,
+        "label": "extra low tones"
+      },
+      "emphasis": [
+        "deep,",
+        "low"
+      ]
+    },
+    {
+      "text": "So inside your own head, you sound richer and deeper than you really are.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "richer",
+          "deeper"
+        ]
+      },
+      "emphasis": [
+        "deeper"
+      ]
+    },
+    {
+      "text": "A recording only captures the air part, so it sounds thinner and higher to you.",
+      "visual": {
+        "type": "split",
+        "left": "in your head",
+        "right": "the recording",
+        "leftIcon": "skull",
+        "rightIcon": "phone"
+      },
+      "emphasis": [
+        "thinner",
+        "higher"
+      ]
+    },
+    {
+      "text": "But everyone around you has heard that version all along.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 20,
+        "label": "hear the recording version"
+      },
+      "emphasis": [
+        "all",
+        "along."
+      ]
+    },
+    {
+      "text": "So next time you cringe at your voice, remember, that's the real you.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "the",
+          "real",
+          "you"
+        ]
+      },
+      "emphasis": [
+        "real"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "You hear your own voice through air and bone conduction; the head boosts low frequencies, so recordings (air only) sound thinner and higher",
+      "url": "https://scientificamerican.com/article/why-does-my-voice-sound-different"
+    }
+  ],
+  "publish": {
+    "title": "That's Not What You Sound Like 🎙️",
+    "description": "Why your recorded voice sounds so weird to you, and why it's the version everyone else hears.",
+    "hashtags": [
+      "shorts",
+      "sciencefacts",
+      "humanbody",
+      "voice",
+      "didyouknow"
+    ],
+    "pinned_comment": "Do you hate hearing your own voice on recordings? 😅👇"
+  }
+}

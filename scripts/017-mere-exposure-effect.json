@@ -1,0 +1,143 @@
+{
+  "id": "017-mere-exposure-effect",
+  "title": "You like things just because you've seen them",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You probably like this song, this face, or this brand, just because you've seen it before.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "seen",
+          "it",
+          "before"
+        ]
+      },
+      "emphasis": [
+        "before."
+      ]
+    },
+    {
+      "text": "Psychologist Robert Zajonc studied this in the 1960s.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "Robert Zajonc"
+      },
+      "emphasis": [
+        "Zajonc"
+      ]
+    },
+    {
+      "text": "He showed people Chinese characters they couldn't read, some more often than others.",
+      "visual": {
+        "type": "cipher",
+        "glyphs": "人山水火木日月口心手目耳天地",
+        "label": "unfamiliar characters"
+      },
+      "emphasis": [
+        "couldn't",
+        "read,"
+      ]
+    },
+    {
+      "text": "Then he asked what each symbol meant. Good, or bad?",
+      "visual": {
+        "type": "split",
+        "left": "good?",
+        "right": "bad?"
+      },
+      "emphasis": [
+        "Good,",
+        "bad?"
+      ]
+    },
+    {
+      "text": "The symbols people had seen before were rated more positive. Every time.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "familiar",
+          "=",
+          "good"
+        ]
+      },
+      "emphasis": [
+        "positive."
+      ]
+    },
+    {
+      "text": "It's called the mere exposure effect.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "mere",
+          "exposure"
+        ]
+      },
+      "emphasis": [
+        "exposure"
+      ]
+    },
+    {
+      "text": "It's why ads repeat, and why songs grow on you after a few listens.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "music",
+          "phone"
+        ],
+        "label": "repeat, repeat, repeat"
+      },
+      "emphasis": [
+        "repeat,"
+      ]
+    },
+    {
+      "text": "Your brain reads familiar as safe, and safe as good.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "familiar = safe = good"
+      },
+      "emphasis": [
+        "safe"
+      ]
+    },
+    {
+      "text": "So the more you see this channel, the more you'll like it. Just saying.",
+      "visual": {
+        "type": "question",
+        "label": "seen us before?"
+      },
+      "emphasis": [
+        "saying."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Zajonc's mere-exposure research: previously seen stimuli (Chinese characters, nonsense words, polygons) rated more positively than unfamiliar ones",
+      "url": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
+    }
+  ],
+  "publish": {
+    "title": "You Like Things Just Because You've Seen Them 👀",
+    "description": "Why ads repeat, songs grow on you, and familiar faces feel trustworthy. The mere exposure effect.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "mereexposure",
+      "marketing",
+      "brain"
+    ],
+    "pinned_comment": "What song did you hate at first and now love? 👇"
+  }
+}

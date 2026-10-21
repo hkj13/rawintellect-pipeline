@@ -1,0 +1,133 @@
+{
+  "id": "038-mcgurk-effect",
+  "title": "Your eyes change what you hear",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Your eyes can change what you hear, and you can't stop it.",
+      "visual": {
+        "type": "split",
+        "left": "what you see",
+        "right": "what you hear",
+        "leftIcon": "eye",
+        "rightIcon": "ear"
+      },
+      "emphasis": [
+        "can't"
+      ]
+    },
+    {
+      "text": "It's called the McGurk effect, discovered by accident in 1976.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1976",
+            "label": "McGurk & MacDonald"
+          }
+        ]
+      },
+      "emphasis": [
+        "McGurk"
+      ]
+    },
+    {
+      "text": "Play the sound ba. But show a face saying ga.",
+      "visual": {
+        "type": "split",
+        "left": "sound: BA",
+        "right": "lips: GA",
+        "leftIcon": "ear",
+        "rightIcon": "eye"
+      },
+      "emphasis": [
+        "ba.",
+        "ga."
+      ]
+    },
+    {
+      "text": "Most people hear a third sound. Da.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "you hear:",
+          "DA"
+        ]
+      },
+      "emphasis": [
+        "Da."
+      ]
+    },
+    {
+      "text": "Your brain blends the two signals into its best guess.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "best guess"
+      },
+      "emphasis": [
+        "blends"
+      ]
+    },
+    {
+      "text": "Close your eyes, and you hear ba again. Open them, and it changes back.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "eyes",
+          "open",
+          "closed"
+        ]
+      },
+      "emphasis": [
+        "changes"
+      ]
+    },
+    {
+      "text": "Even knowing about the illusion doesn't break it.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "still",
+          "fooled"
+        ]
+      },
+      "emphasis": [
+        "doesn't"
+      ]
+    },
+    {
+      "text": "Search McGurk effect, and test it on yourself.",
+      "visual": {
+        "type": "question",
+        "label": "what do you hear?"
+      },
+      "emphasis": [
+        "yourself."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "McGurk and MacDonald (1976): audio 'ba' with video 'ga' is usually heard as 'da'; discovered by accident; persists even when people know about it",
+      "url": "https://en.wikipedia.org/wiki/McGurk_effect"
+    }
+  ],
+  "publish": {
+    "title": "Your Eyes Change What You Hear 👂👁️",
+    "description": "The McGurk effect: show 'ga', play 'ba', and your brain hears 'da'. Knowing doesn't help.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "illusion",
+      "mcgurkeffect",
+      "brain"
+    ],
+    "pinned_comment": "Did you hear BA or DA? 👇"
+  }
+}

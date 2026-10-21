@@ -1,0 +1,159 @@
+{
+  "id": "009-dancing-plague-1518",
+  "title": "The town that couldn't stop dancing",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1518, people in one city started dancing, and could not stop.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "they",
+          "couldn't",
+          "stop"
+        ]
+      },
+      "emphasis": [
+        "stop."
+      ]
+    },
+    {
+      "text": "It began in July, in Strasbourg, when a woman stepped into the street and danced for days.",
+      "visual": {
+        "type": "pin",
+        "place": "Strasbourg",
+        "detail": "July 1518",
+        "dx": 30
+      },
+      "emphasis": [
+        "Strasbourg,"
+      ]
+    },
+    {
+      "text": "Within days, more than thirty people had joined her.",
+      "visual": {
+        "type": "number",
+        "value": 30,
+        "label": "dancers within days",
+        "suffix": "+"
+      },
+      "emphasis": [
+        "thirty"
+      ]
+    },
+    {
+      "text": "By August, chronicles say somewhere between fifty and four hundred were dancing.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "JULY",
+            "label": "one woman"
+          },
+          {
+            "year": "DAYS",
+            "label": "30+ dancers"
+          },
+          {
+            "year": "AUG",
+            "label": "50 to 400"
+          }
+        ]
+      },
+      "emphasis": [
+        "four",
+        "hundred"
+      ]
+    },
+    {
+      "text": "The city's solution? More music. They hired musicians and opened halls for the dancers.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "music"
+        ],
+        "label": "more music"
+      },
+      "emphasis": [
+        "music."
+      ]
+    },
+    {
+      "text": "It only made things worse.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "worse"
+        ]
+      },
+      "emphasis": [
+        "worse."
+      ]
+    },
+    {
+      "text": "Later accounts claim people danced until they died, but the city's own records don't mention any deaths.",
+      "visual": {
+        "type": "split",
+        "left": "later stories: deaths",
+        "right": "city records: none"
+      },
+      "emphasis": [
+        "died,",
+        "deaths."
+      ]
+    },
+    {
+      "text": "Historians think it may have been mass psychogenic illness, fuelled by famine, disease and fear.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "mass psychogenic illness"
+      },
+      "emphasis": [
+        "famine,",
+        "fear."
+      ]
+    },
+    {
+      "text": "Five hundred years later, nobody knows exactly what happened.",
+      "visual": {
+        "type": "question",
+        "label": "what really happened?"
+      },
+      "emphasis": [
+        "nobody"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Began July 1518 in Strasbourg with one woman (often named Frau Troffea); over thirty within days; 50 to 400 by August",
+      "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518"
+    },
+    {
+      "claim": "Council hired musicians and opened guild halls, which backfired; contemporary city records don't mention deaths",
+      "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518"
+    },
+    {
+      "claim": "Leading theory is mass psychogenic illness linked to famine, disease and hardship (John Waller)",
+      "url": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518"
+    }
+  ],
+  "publish": {
+    "title": "The Town That Couldn't Stop Dancing 💃 (1518)",
+    "description": "Strasbourg, 1518: one woman started dancing in the street. Within weeks, hundreds joined. Nobody fully knows why.",
+    "hashtags": [
+      "shorts",
+      "history",
+      "mystery",
+      "dancingplague",
+      "unsolved"
+    ],
+    "pinned_comment": "Mass hysteria or poisoned bread? What's your theory? 👇"
+  }
+}

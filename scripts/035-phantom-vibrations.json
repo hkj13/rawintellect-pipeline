@@ -1,0 +1,153 @@
+{
+  "id": "035-phantom-vibrations",
+  "title": "Your phone did not buzz",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You felt your phone buzz. You check. Nothing.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "phone"
+        ],
+        "label": "bzzz?"
+      },
+      "emphasis": [
+        "Nothing."
+      ]
+    },
+    {
+      "text": "You're not alone. In one study, 89% of college students said it happened to them.",
+      "visual": {
+        "type": "number",
+        "value": 89,
+        "label": "of students felt phantom buzzes",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "89%"
+      ]
+    },
+    {
+      "text": "Across studies, it's somewhere between about 30 and 89 percent of phone users.",
+      "visual": {
+        "type": "compare",
+        "unit": "%",
+        "left": {
+          "label": "low estimate",
+          "value": 30
+        },
+        "right": {
+          "label": "high estimate",
+          "value": 89
+        }
+      },
+      "emphasis": [
+        "30",
+        "89"
+      ]
+    },
+    {
+      "text": "It's called phantom vibration syndrome.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "phantom",
+          "vibration"
+        ]
+      },
+      "emphasis": [
+        "phantom"
+      ]
+    },
+    {
+      "text": "When you're expecting a message, your brain gets primed to detect one.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "expecting a buzz"
+      },
+      "emphasis": [
+        "primed"
+      ]
+    },
+    {
+      "text": "So it mistakes other sensations, like a muscle twitch or your clothes moving, for a vibration.",
+      "visual": {
+        "type": "split",
+        "left": "muscle twitch",
+        "right": "phone buzz",
+        "leftIcon": "person",
+        "rightIcon": "phone"
+      },
+      "emphasis": [
+        "mistakes"
+      ]
+    },
+    {
+      "text": "One researcher calls it a tactile hallucination.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "tactile",
+          "hallucination"
+        ]
+      },
+      "emphasis": [
+        "hallucination."
+      ]
+    },
+    {
+      "text": "It usually starts within a month to a year of carrying a phone.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1 MONTH",
+            "label": "it can start"
+          },
+          {
+            "year": "1 YEAR",
+            "label": "most have it"
+          }
+        ]
+      },
+      "emphasis": [
+        "month"
+      ]
+    },
+    {
+      "text": "So next time you feel a buzz, ask yourself, was that the phone, or your brain?",
+      "visual": {
+        "type": "question",
+        "label": "phone or brain?"
+      },
+      "emphasis": [
+        "brain?"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Drouin found 89% of undergraduates experienced phantom vibrations; studies range 29.6% to 89%; brain misreads sensations when anticipating a call; starts after one month to one year; Rothberg calls it a tactile hallucination",
+      "url": "https://en.wikipedia.org/wiki/Phantom_vibration_syndrome"
+    }
+  ],
+  "publish": {
+    "title": "Your Phone Didn't Actually Buzz 📱",
+    "description": "89% of students in one study felt phantom vibrations. Here's why your brain invents them.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "phantomvibration",
+      "smartphone",
+      "brain"
+    ],
+    "pinned_comment": "How many times today did you check a buzz that wasn't there? 👇"
+  }
+}

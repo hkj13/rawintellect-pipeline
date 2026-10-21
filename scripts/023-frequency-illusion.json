@@ -1,0 +1,149 @@
+{
+  "id": "023-frequency-illusion",
+  "title": "Learn a word, then see it everywhere",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You learn a new word, and suddenly you see it everywhere.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "everywhere"
+        ]
+      },
+      "emphasis": [
+        "everywhere."
+      ]
+    },
+    {
+      "text": "Same with a car you just bought. Now it's on every road.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "suddenly everywhere"
+      },
+      "emphasis": [
+        "every"
+      ]
+    },
+    {
+      "text": "It isn't the world changing. It's your brain.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ]
+      },
+      "emphasis": [
+        "brain."
+      ]
+    },
+    {
+      "text": "It's called the frequency illusion, a name coined by Stanford linguist Arnold Zwicky.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "frequency",
+          "illusion"
+        ]
+      },
+      "emphasis": [
+        "frequency",
+        "illusion,"
+      ]
+    },
+    {
+      "text": "It's also known as the Baader-Meinhof phenomenon, after a reader's letter to a Minnesota newspaper in 1994.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1994",
+            "label": "Baader-Meinhof letter"
+          },
+          {
+            "year": "2005",
+            "label": "Zwicky names it"
+          }
+        ]
+      },
+      "emphasis": [
+        "1994."
+      ]
+    },
+    {
+      "text": "Two things cause it. Selective attention: your brain now filters for that thing.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "selective attention"
+      },
+      "emphasis": [
+        "Selective",
+        "attention:"
+      ]
+    },
+    {
+      "text": "And confirmation bias: every time you spot it, you feel more sure it's everywhere.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "confirmation bias"
+      },
+      "emphasis": [
+        "confirmation",
+        "bias:"
+      ]
+    },
+    {
+      "text": "It was always there. You just weren't looking.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "always",
+          "there"
+        ]
+      },
+      "emphasis": [
+        "always"
+      ]
+    },
+    {
+      "text": "And now that you know about it, you'll start noticing it everywhere.",
+      "visual": {
+        "type": "question",
+        "label": "noticed it yet?"
+      },
+      "emphasis": [
+        "everywhere."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Frequency illusion (Baader–Meinhof phenomenon): named by Arnold Zwicky in 2005; Baader-Meinhof name from a 1994 letter to the St. Paul Pioneer Press; caused by selective attention and confirmation bias",
+      "url": "https://en.wikipedia.org/wiki/Frequency_illusion"
+    }
+  ],
+  "publish": {
+    "title": "Learn Something New, Then See It Everywhere 👁️",
+    "description": "Why a new word or car suddenly shows up everywhere. It's the frequency illusion, also called Baader-Meinhof.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "baadermeinhof",
+      "brain",
+      "mindblown"
+    ],
+    "pinned_comment": "What's something you started seeing everywhere after learning about it? 👇"
+  }
+}

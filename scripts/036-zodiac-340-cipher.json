@@ -1,0 +1,143 @@
+{
+  "id": "036-zodiac-340-cipher",
+  "title": "A killer's code cracked 51 years later",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "A serial killer sent a coded letter in 1969. It took 51 years to crack.",
+      "visual": {
+        "type": "cipher",
+        "glyphs": "ΔΘ+KΓ⊕ΩΛ>Y∆R△●◐▲W⊗Z",
+        "label": "the 340 cipher"
+      },
+      "emphasis": [
+        "51"
+      ]
+    },
+    {
+      "text": "The Zodiac Killer mailed it to the San Francisco Chronicle in November 1969.",
+      "visual": {
+        "type": "pin",
+        "place": "San Francisco",
+        "detail": "8 November 1969",
+        "dx": -90
+      },
+      "emphasis": [
+        "San",
+        "Francisco"
+      ]
+    },
+    {
+      "text": "It had 340 symbols, and nobody could read it.",
+      "visual": {
+        "type": "number",
+        "value": 340,
+        "label": "symbols"
+      },
+      "emphasis": [
+        "340"
+      ]
+    },
+    {
+      "text": "For decades, codebreakers tried and failed.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "decades",
+          "of failure"
+        ]
+      },
+      "emphasis": [
+        "failed."
+      ]
+    },
+    {
+      "text": "Then in December 2020, three amateur codebreakers solved it.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1969",
+            "label": "cipher sent"
+          },
+          {
+            "year": "2020",
+            "label": "finally solved"
+          }
+        ]
+      },
+      "emphasis": [
+        "2020,"
+      ]
+    },
+    {
+      "text": "David Oranchak, Sam Blake and Jarl Van Eycke used software that tested around 650,000 possible solutions.",
+      "visual": {
+        "type": "number",
+        "value": 650000,
+        "label": "possible solutions tested"
+      },
+      "emphasis": [
+        "650,000"
+      ]
+    },
+    {
+      "text": "The FBI confirmed it was correct.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "FBI",
+          "confirmed"
+        ]
+      },
+      "emphasis": [
+        "confirmed"
+      ]
+    },
+    {
+      "text": "But the message gave no new clues about who the killer was.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "no",
+          "name"
+        ]
+      },
+      "emphasis": [
+        "no",
+        "new"
+      ]
+    },
+    {
+      "text": "The code is solved. The Zodiac Killer is still unidentified.",
+      "visual": {
+        "type": "question",
+        "label": "who was the Zodiac?"
+      },
+      "emphasis": [
+        "unidentified."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "340 cipher mailed to the San Francisco Chronicle on 8 November 1969; solved 5 December 2020 by David Oranchak, Sam Blake and Jarl Van Eycke using AZdecrypt (~650,000 solutions tested); FBI verified; no clues to identity",
+      "url": "https://en.wikipedia.org/wiki/Zodiac_Killer"
+    }
+  ],
+  "publish": {
+    "title": "A Killer's Code Was Cracked 51 Years Later 🔐",
+    "description": "The Zodiac 340 cipher stumped everyone from 1969 until 2020. Then three amateurs solved it. The killer is still unknown.",
+    "hashtags": [
+      "shorts",
+      "truecrime",
+      "zodiac",
+      "cipher",
+      "unsolved"
+    ],
+    "pinned_comment": "Do you think the Zodiac Killer will ever be identified? 👇"
+  }
+}

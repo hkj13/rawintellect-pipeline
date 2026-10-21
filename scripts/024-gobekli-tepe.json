@@ -1,0 +1,171 @@
+{
+  "id": "024-gobekli-tepe",
+  "title": "A temple 6,000 years older than Stonehenge",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Thousands of years before Stonehenge, someone carved giant stone pillars on a hill in Turkey.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "Göbekli Tepe"
+      },
+      "emphasis": [
+        "Stonehenge,"
+      ]
+    },
+    {
+      "text": "It's called Göbekli Tepe, in southeastern Turkey.",
+      "visual": {
+        "type": "pin",
+        "place": "Göbekli Tepe, Turkey",
+        "detail": "Şanlıurfa province",
+        "dx": 70
+      },
+      "emphasis": [
+        "Göbekli",
+        "Tepe,"
+      ]
+    },
+    {
+      "text": "Its oldest structures date to around 9500 BC.",
+      "visual": {
+        "type": "number",
+        "value": 9500,
+        "label": "BC, earliest structures",
+        "suffix": " BC",
+        "plain": true,
+        "from": 3000
+      },
+      "emphasis": [
+        "9500"
+      ]
+    },
+    {
+      "text": "Stonehenge was started around 3100 BC. That's over six thousand years later.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "9500 BC",
+            "label": "Göbekli Tepe"
+          },
+          {
+            "year": "3100 BC",
+            "label": "Stonehenge begun"
+          },
+          {
+            "year": "NOW",
+            "label": "today"
+          }
+        ],
+        "highlight": 0
+      },
+      "emphasis": [
+        "six",
+        "thousand"
+      ]
+    },
+    {
+      "text": "Its T-shaped pillars are the oldest known megaliths in the world.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "oldest",
+          "megaliths"
+        ]
+      },
+      "emphasis": [
+        "oldest"
+      ]
+    },
+    {
+      "text": "They're carved with snakes, foxes, boars, and vultures.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bug",
+          "star"
+        ],
+        "label": "snakes, foxes, boars, vultures"
+      },
+      "emphasis": [
+        "snakes,",
+        "vultures."
+      ]
+    },
+    {
+      "text": "And it was built by hunter-gatherers, before pottery, before cities.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "before",
+          "cities"
+        ]
+      },
+      "emphasis": [
+        "hunter-gatherers,"
+      ]
+    },
+    {
+      "text": "It was noticed in a 1963 survey, but its importance wasn't recognised until 1994.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1963",
+            "label": "first noted"
+          },
+          {
+            "year": "1994",
+            "label": "Schmidt recognises it"
+          },
+          {
+            "year": "2018",
+            "label": "UNESCO site"
+          }
+        ]
+      },
+      "emphasis": [
+        "1994."
+      ]
+    },
+    {
+      "text": "So who were these people, and why did they build it?",
+      "visual": {
+        "type": "question",
+        "label": "who built it?"
+      },
+      "emphasis": [
+        "why"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Göbekli Tepe, Şanlıurfa, southeastern Turkey; earliest structures about 9500–9000 BCE; T-shaped pillars are the oldest known megaliths; animal reliefs; built by hunter-gatherers in the Pre-Pottery Neolithic; noted 1963, recognised by Klaus Schmidt 1994; UNESCO 2018",
+      "url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+    },
+    {
+      "claim": "Stonehenge first built around 3100 BC",
+      "url": "https://en.wikipedia.org/wiki/Stonehenge"
+    }
+  ],
+  "publish": {
+    "title": "The Temple 6,000 Years Older Than Stonehenge 🗿",
+    "description": "Göbekli Tepe was carved by hunter-gatherers around 9500 BC. It rewrote what we thought we knew about early humans.",
+    "hashtags": [
+      "shorts",
+      "history",
+      "gobeklitepe",
+      "ancientmysteries",
+      "archaeology"
+    ],
+    "pinned_comment": "Did you know about Göbekli Tepe before this? 👇"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "039-taos-hum",
+  "title": "A sound only some people can hear",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In one small town, some people hear a low hum that nobody can find.",
+      "visual": {
+        "type": "wave",
+        "spike": false,
+        "label": "the Taos hum"
+      },
+      "emphasis": [
+        "hum"
+      ]
+    },
+    {
+      "text": "Taos, New Mexico. Residents began reporting it in the early 1990s.",
+      "visual": {
+        "type": "pin",
+        "place": "Taos, New Mexico",
+        "detail": "early 1990s",
+        "dx": -50
+      },
+      "emphasis": [
+        "Taos,"
+      ]
+    },
+    {
+      "text": "A study found that at least 2% of residents could hear it.",
+      "visual": {
+        "type": "people",
+        "total": 50,
+        "highlight": 1,
+        "label": "at least 2% hear it"
+      },
+      "emphasis": [
+        "2%"
+      ]
+    },
+    {
+      "text": "Each person heard it at a slightly different pitch, between 32 and 80 hertz. Like a distant engine.",
+      "visual": {
+        "type": "compare",
+        "unit": " HZ",
+        "left": {
+          "label": "lowest",
+          "value": 32
+        },
+        "right": {
+          "label": "highest",
+          "value": 80
+        }
+      },
+      "emphasis": [
+        "32",
+        "80"
+      ]
+    },
+    {
+      "text": "Microphones and investigators never found a clear source.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "no",
+          "source"
+        ]
+      },
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "text": "Theories range from military radio signals to sounds produced inside the ear itself.",
+      "visual": {
+        "type": "split",
+        "left": "military radio?",
+        "right": "inside the ear?",
+        "leftIcon": "signal",
+        "rightIcon": "ear"
+      },
+      "emphasis": [
+        "inside"
+      ]
+    },
+    {
+      "text": "A similar hum in Windsor, Ontario, stopped in 2020, when a nearby steel plant shut down.",
+      "visual": {
+        "type": "pin",
+        "place": "Windsor, Ontario",
+        "detail": "hum stopped in 2020",
+        "dx": 40
+      },
+      "emphasis": [
+        "stopped"
+      ]
+    },
+    {
+      "text": "But in Taos, nobody has ever proven where it comes from.",
+      "visual": {
+        "type": "question",
+        "label": "can you hear it?"
+      },
+      "emphasis": [
+        "nobody"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Taos Hum: early-1990s study found at least 2% of residents heard it, at 32–80 Hz; explanations include military VLF radio and otoacoustic emissions",
+      "url": "https://en.wikipedia.org/wiki/Taos_Hum"
+    },
+    {
+      "claim": "Windsor, Ontario hum stopped after the U.S. Steel plant on Zug Island ceased operations in April 2020",
+      "url": "https://en.wikipedia.org/wiki/Taos_Hum"
+    }
+  ],
+  "publish": {
+    "title": "The Hum Only Some People Can Hear 🔊",
+    "description": "Taos, New Mexico: at least 2% of residents hear a low hum nobody can trace. What is it?",
+    "hashtags": [
+      "shorts",
+      "mystery",
+      "taoshum",
+      "unexplained",
+      "sound"
+    ],
+    "pinned_comment": "Have you ever heard a hum nobody else could? 👇"
+  }
+}

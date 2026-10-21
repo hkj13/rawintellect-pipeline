@@ -1,0 +1,144 @@
+{
+  "id": "018-mary-celeste",
+  "title": "A ship found sailing with nobody aboard",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1872, a ship was found sailing in the Atlantic, with nobody on board.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "ship"
+        ],
+        "label": "the Mary Celeste"
+      },
+      "emphasis": [
+        "nobody"
+      ]
+    },
+    {
+      "text": "The crew of another ship spotted her between the Azores and Portugal.",
+      "visual": {
+        "type": "pin",
+        "place": "Off the Azores",
+        "detail": "4 December 1872",
+        "dx": -60
+      },
+      "emphasis": [
+        "Azores"
+      ]
+    },
+    {
+      "text": "She was damaged, but still seaworthy, with sails partly set.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "ship"
+        ],
+        "label": "seaworthy"
+      },
+      "emphasis": [
+        "seaworthy,"
+      ]
+    },
+    {
+      "text": "Her cargo of 1,701 barrels of alcohol was almost untouched. There was plenty of food.",
+      "visual": {
+        "type": "number",
+        "value": 1701,
+        "label": "barrels of alcohol aboard",
+        "plain": true
+      },
+      "emphasis": [
+        "1,701"
+      ]
+    },
+    {
+      "text": "Personal belongings were left behind. But the lifeboat was gone.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "lifeboat",
+          "gone"
+        ]
+      },
+      "emphasis": [
+        "lifeboat"
+      ]
+    },
+    {
+      "text": "Captain Briggs, his wife, their baby daughter and seven crew had vanished.",
+      "visual": {
+        "type": "people",
+        "total": 10,
+        "highlight": 10,
+        "label": "ten people, never found"
+      },
+      "emphasis": [
+        "vanished."
+      ]
+    },
+    {
+      "text": "Theories range from pirates and mutiny to a giant squid.",
+      "visual": {
+        "type": "question",
+        "label": "pirates? mutiny?"
+      },
+      "emphasis": [
+        "squid."
+      ]
+    },
+    {
+      "text": "One of the more popular ideas: alcohol fumes from the cargo scared the crew into abandoning ship.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "water"
+        ],
+        "label": "the fume theory"
+      },
+      "emphasis": [
+        "fumes"
+      ]
+    },
+    {
+      "text": "But nobody from the Mary Celeste was ever seen again.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "never",
+          "seen",
+          "again"
+        ]
+      },
+      "emphasis": [
+        "never"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Found 4 December 1872 by the Dei Gratia between the Azores and Portugal; seaworthy with partial sail; 1,701 barrels of alcohol intact; lifeboat missing",
+      "url": "https://en.wikipedia.org/wiki/Mary_Celeste"
+    },
+    {
+      "claim": "Captain Briggs, his wife, infant daughter and seven crew never seen again; theories include alcohol fumes, mutiny, piracy, giant squid",
+      "url": "https://en.wikipedia.org/wiki/Mary_Celeste"
+    }
+  ],
+  "publish": {
+    "title": "The Ship Found Sailing With Nobody Aboard 🚢",
+    "description": "1872: the Mary Celeste was found drifting, seaworthy, cargo intact. Ten people gone without a trace.",
+    "hashtags": [
+      "shorts",
+      "mystery",
+      "maryceleste",
+      "unsolved",
+      "history"
+    ],
+    "pinned_comment": "What do you think happened to the crew? 👇"
+  }
+}

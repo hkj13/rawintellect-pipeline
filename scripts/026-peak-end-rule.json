@@ -1,0 +1,153 @@
+{
+  "id": "026-peak-end-rule",
+  "title": "You remember pain by its ending",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "People would rather suffer longer, as long as it ends better.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "longer",
+          "but",
+          "better"
+        ]
+      },
+      "emphasis": [
+        "longer,",
+        "better."
+      ]
+    },
+    {
+      "text": "In 1993, Daniel Kahneman asked people to hold a hand in cold water, at 14 degrees.",
+      "visual": {
+        "type": "number",
+        "value": 14,
+        "label": "°C cold water",
+        "suffix": "°"
+      },
+      "emphasis": [
+        "14"
+      ]
+    },
+    {
+      "text": "Trial one: 60 seconds of cold.",
+      "visual": {
+        "type": "number",
+        "value": 60,
+        "label": "seconds at 14°C",
+        "suffix": "s"
+      },
+      "emphasis": [
+        "60"
+      ]
+    },
+    {
+      "text": "Trial two: the same 60 seconds, plus 30 more, while the water got slightly warmer.",
+      "visual": {
+        "type": "compare",
+        "unit": "s",
+        "left": {
+          "label": "trial one",
+          "value": 60
+        },
+        "right": {
+          "label": "trial two",
+          "value": 90
+        }
+      },
+      "emphasis": [
+        "30",
+        "more,"
+      ]
+    },
+    {
+      "text": "When asked which to repeat, people were more willing to choose the longer one.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "longer",
+          "won"
+        ]
+      },
+      "emphasis": [
+        "longer"
+      ]
+    },
+    {
+      "text": "It's called the peak-end rule. We judge an experience by its most intense moment, and how it ends.",
+      "visual": {
+        "type": "split",
+        "left": "the peak",
+        "right": "the end"
+      },
+      "emphasis": [
+        "peak",
+        "ends."
+      ]
+    },
+    {
+      "text": "Total duration barely matters.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "duration?",
+          "ignored"
+        ]
+      },
+      "emphasis": [
+        "barely"
+      ]
+    },
+    {
+      "text": "The same thing showed up in a colonoscopy study. A gentler ending made people rate it as less unpleasant.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "gentler ending"
+      },
+      "emphasis": [
+        "gentler",
+        "ending"
+      ]
+    },
+    {
+      "text": "So if you want a memory to last, make sure it ends well.",
+      "visual": {
+        "type": "question",
+        "label": "how did yours end?"
+      },
+      "emphasis": [
+        "ends",
+        "well."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Kahneman et al. (1993): 60 s at 14 °C vs 60 s plus 30 s while water warmed to 15 °C; subjects more willing to repeat the longer trial",
+      "url": "https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule"
+    },
+    {
+      "claim": "Redelmeier, Katz & Kahneman (2003): a gentler extended colonoscopy ending was rated less unpleasant",
+      "url": "https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule"
+    }
+  ],
+  "publish": {
+    "title": "You Remember Pain by How It Ends 🧊",
+    "description": "People chose 90 seconds of cold water over 60, because it ended better. The peak-end rule explains how memory really works.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "kahneman",
+      "memory",
+      "peakend"
+    ],
+    "pinned_comment": "Can you think of a bad day that was saved by a good ending? 👇"
+  }
+}

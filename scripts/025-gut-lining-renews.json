@@ -1,0 +1,132 @@
+{
+  "id": "025-gut-lining-renews",
+  "title": "Your gut rebuilds itself every few days",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "The inside of your gut is brand new. Again.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "brand",
+          "new"
+        ]
+      },
+      "emphasis": [
+        "new."
+      ]
+    },
+    {
+      "text": "The lining of your digestive tract is replaced roughly every four to five days.",
+      "visual": {
+        "type": "number",
+        "value": 5,
+        "label": "days to replace the lining",
+        "prefix": "4–"
+      },
+      "emphasis": [
+        "four",
+        "five"
+      ]
+    },
+    {
+      "text": "It has to. That lining takes a beating from acid, enzymes, and everything you eat.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gut"
+        ],
+        "label": "acid, enzymes, food"
+      },
+      "emphasis": [
+        "acid,"
+      ]
+    },
+    {
+      "text": "So cells are constantly shed from the surface, and new ones are made underneath.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "dna"
+        ],
+        "label": "constant renewal"
+      },
+      "emphasis": [
+        "shed",
+        "new"
+      ]
+    },
+    {
+      "text": "It's one of the fastest renewing tissues in your whole body.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "fastest",
+          "renewal"
+        ]
+      },
+      "emphasis": [
+        "fastest"
+      ]
+    },
+    {
+      "text": "Compare that to your skeleton, which renews only about 10% a year.",
+      "visual": {
+        "type": "split",
+        "left": "gut: 4 to 5 days",
+        "right": "skeleton: about 10 years"
+      },
+      "emphasis": [
+        "years"
+      ]
+    },
+    {
+      "text": "So the gut you had last week is already gone.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "already",
+          "gone"
+        ]
+      },
+      "emphasis": [
+        "gone."
+      ]
+    },
+    {
+      "text": "You are, quite literally, not the same person you were a few days ago.",
+      "visual": {
+        "type": "question",
+        "label": "same you?"
+      },
+      "emphasis": [
+        "same"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "The gut tube epithelium is completely replaced every 4–5 days in a healthy individual",
+      "url": "https://abdn.ac.uk/medical/elf/courses/view/126314/a-short-review-of-histology/1/page100"
+    },
+    {
+      "claim": "Adults remodel about 10% of the skeleton per year",
+      "url": "https://en.wikipedia.org/wiki/Bone_remodeling"
+    }
+  ],
+  "publish": {
+    "title": "Your Gut Rebuilds Itself Every Few Days 🔄",
+    "description": "The lining of your digestive tract is replaced every 4 to 5 days. One of the fastest renewing tissues in your body.",
+    "hashtags": [
+      "shorts",
+      "humanbody",
+      "gut",
+      "sciencefacts",
+      "didyouknow"
+    ],
+    "pinned_comment": "Which body fact blew your mind the most? 👇"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "013-humans-glow",
+  "title": "Your body is glowing right now",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Your body is glowing, right now. You just can't see it.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "you",
+          "glow"
+        ]
+      },
+      "emphasis": [
+        "glowing,"
+      ]
+    },
+    {
+      "text": "In 2009, Japanese researchers filmed people in total darkness with ultra-sensitive cameras.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "Kobayashi et al., 2009"
+      },
+      "emphasis": [
+        "darkness"
+      ]
+    },
+    {
+      "text": "They caught real visible light coming off human skin.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "visible light, not heat"
+      },
+      "emphasis": [
+        "visible",
+        "light"
+      ]
+    },
+    {
+      "text": "It's about a thousand times too weak for your eyes to detect.",
+      "visual": {
+        "type": "number",
+        "value": 1000,
+        "label": "times too faint to see",
+        "prefix": "×"
+      },
+      "emphasis": [
+        "thousand"
+      ]
+    },
+    {
+      "text": "It's a side effect of your metabolism. Reactive molecules from cell respiration release tiny flashes of light.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "dna"
+        ],
+        "label": "a side effect of metabolism"
+      },
+      "emphasis": [
+        "metabolism."
+      ]
+    },
+    {
+      "text": "The face glowed the most, especially the cheeks, forehead and neck.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "mask"
+        ],
+        "label": "brightest: cheeks, forehead, neck"
+      },
+      "emphasis": [
+        "face"
+      ]
+    },
+    {
+      "text": "And the glow follows your body clock. Weakest late at night, brightest in the late afternoon.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "NIGHT",
+            "label": "weakest"
+          },
+          {
+            "year": "MORNING",
+            "label": "rising"
+          },
+          {
+            "year": "4 PM",
+            "label": "brightest"
+          }
+        ]
+      },
+      "emphasis": [
+        "afternoon."
+      ]
+    },
+    {
+      "text": "So in a sense, every human being is very, very faintly bioluminescent.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "you",
+          "glow"
+        ]
+      },
+      "emphasis": [
+        "bioluminescent."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Kobayashi et al. (PLoS ONE, 2009): the human body emits visible light about 1,000 times weaker than the eye can detect, with a daily rhythm linked to metabolism",
+      "url": "https://doaj.org/article/c77ea97939b64f4986150a3145cd2aea"
+    },
+    {
+      "claim": "Forehead, neck and cheeks glowed most; peak in late afternoon, weakest late at night; caused by free radicals from cell respiration",
+      "url": "https://www.sciencealert.com/?p=32588"
+    }
+  ],
+  "publish": {
+    "title": "Your Body Is Glowing Right Now ✨",
+    "description": "Humans emit real visible light, 1,000 times too faint to see. Japanese researchers filmed it in total darkness.",
+    "hashtags": [
+      "shorts",
+      "humanbody",
+      "science",
+      "didyouknow",
+      "bioluminescence"
+    ],
+    "pinned_comment": "Did you know you glow? 😮 Drop a ✨ if this surprised you 👇"
+  }
+}

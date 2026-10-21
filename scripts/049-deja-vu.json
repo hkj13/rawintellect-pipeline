@@ -1,0 +1,146 @@
+{
+  "id": "049-deja-vu",
+  "title": "Why now feels like before",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You've been here before. Except you haven't.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "déjà",
+          "vu"
+        ]
+      },
+      "emphasis": [
+        "haven't."
+      ]
+    },
+    {
+      "text": "About two thirds of people say they've felt déjà vu at least once.",
+      "visual": {
+        "type": "people",
+        "total": 15,
+        "highlight": 10,
+        "label": "have felt déjà vu"
+      },
+      "emphasis": [
+        "two",
+        "thirds"
+      ]
+    },
+    {
+      "text": "The term was introduced by French philosopher Émile Boirac in 1876. It means already seen.",
+      "visual": {
+        "type": "quote",
+        "text": "déjà vu: already seen",
+        "by": "Émile Boirac, 1876"
+      },
+      "emphasis": [
+        "already",
+        "seen."
+      ]
+    },
+    {
+      "text": "It's reported more often by young people, and tends to fade as we age.",
+      "visual": {
+        "type": "compare",
+        "unit": "",
+        "left": {
+          "label": "young",
+          "value": 10,
+          "display": "MORE"
+        },
+        "right": {
+          "label": "older",
+          "value": 5,
+          "display": "LESS"
+        }
+      },
+      "emphasis": [
+        "young"
+      ]
+    },
+    {
+      "text": "One leading idea: the place feels familiar because it resembles something you've forgotten.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "a forgotten match"
+      },
+      "emphasis": [
+        "forgotten."
+      ]
+    },
+    {
+      "text": "In 2012, a virtual reality study found that scenes with a layout similar to a forgotten scene triggered that feeling.",
+      "visual": {
+        "type": "split",
+        "left": "old forgotten scene",
+        "right": "new scene, same layout"
+      },
+      "emphasis": [
+        "layout"
+      ]
+    },
+    {
+      "text": "It's also linked to temporal lobe epilepsy, where it can appear just before a seizure.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "temporal lobe link"
+      },
+      "emphasis": [
+        "epilepsy,"
+      ]
+    },
+    {
+      "text": "For most people though, it's harmless. Just a memory glitch.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "a memory",
+          "glitch"
+        ]
+      },
+      "emphasis": [
+        "glitch."
+      ]
+    },
+    {
+      "text": "Or have you watched this video before?",
+      "visual": {
+        "type": "question",
+        "label": "seen this before?"
+      },
+      "emphasis": [
+        "before?"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "About two-thirds report déjà vu; term introduced by Émile Boirac in 1876; more common in younger people; linked to temporal lobe epilepsy; Cleary et al. (2012) VR study on spatial configuration",
+      "url": "https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu"
+    }
+  ],
+  "publish": {
+    "title": "Why You Feel Like You've Been Here Before 🌀",
+    "description": "Two thirds of people have felt déjà vu. Scientists think it's a familiarity glitch in memory.",
+    "hashtags": [
+      "shorts",
+      "dejavu",
+      "mystery",
+      "brain",
+      "memory"
+    ],
+    "pinned_comment": "When was the last time you had déjà vu? 👇"
+  }
+}

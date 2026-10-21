@@ -1,0 +1,146 @@
+{
+  "id": "016-goosebumps",
+  "title": "Goosebumps are leftover fur",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Goosebumps are your body trying to puff up fur you don't have anymore.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "goosebumps"
+        ]
+      },
+      "emphasis": [
+        "fur"
+      ]
+    },
+    {
+      "text": "Every hair on your skin has a tiny muscle attached to it.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "dna"
+        ],
+        "label": "arrector pili muscles"
+      },
+      "emphasis": [
+        "muscle"
+      ]
+    },
+    {
+      "text": "When you're cold or scared, those muscles pull the hairs upright.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "cold",
+          "or",
+          "scared"
+        ],
+        "highlight": 2
+      },
+      "emphasis": [
+        "cold",
+        "scared,"
+      ]
+    },
+    {
+      "text": "For furry animals, that's useful. Raised fur traps air and keeps them warm.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "fur traps warm air"
+      },
+      "emphasis": [
+        "warm."
+      ]
+    },
+    {
+      "text": "It also makes them look bigger. Think of a frightened cat, or a porcupine raising its quills.",
+      "visual": {
+        "type": "split",
+        "left": "scared cat",
+        "right": "porcupine",
+        "leftIcon": "mask",
+        "rightIcon": "bug"
+      },
+      "emphasis": [
+        "bigger."
+      ]
+    },
+    {
+      "text": "We lost most of our fur, but kept the reflex.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "reflex",
+          "kept"
+        ]
+      },
+      "emphasis": [
+        "reflex."
+      ]
+    },
+    {
+      "text": "Scientists call it a vestigial reflex, a leftover from our ancestors.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "dna"
+        ],
+        "label": "a vestigial reflex"
+      },
+      "emphasis": [
+        "vestigial"
+      ]
+    },
+    {
+      "text": "That's why you can still get chills from music, or a scary movie.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "music"
+        ],
+        "label": "chills from music"
+      },
+      "emphasis": [
+        "music,"
+      ]
+    },
+    {
+      "text": "Your body is still trying to look bigger, with fur that's barely there.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "goosebumps"
+        ]
+      },
+      "emphasis": [
+        "bigger,"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Arrector pili muscles pull hairs upright; considered a vestigial reflex; in furred animals it insulates and makes them look larger (cats, porcupines); triggered by cold, fear, awe and music",
+      "url": "https://en.wikipedia.org/wiki/Goose_bumps"
+    }
+  ],
+  "publish": {
+    "title": "Goosebumps Are Leftover Fur 🐈",
+    "description": "Why your skin gets bumpy when you're cold, scared, or listening to a great song. It's a reflex from our furry ancestors.",
+    "hashtags": [
+      "shorts",
+      "humanbody",
+      "goosebumps",
+      "evolution",
+      "didyouknow"
+    ],
+    "pinned_comment": "Which song always gives you goosebumps? 🎵👇"
+  }
+}

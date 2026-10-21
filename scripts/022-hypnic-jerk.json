@@ -1,0 +1,141 @@
+{
+  "id": "022-hypnic-jerk",
+  "title": "Why you jolt awake as you fall asleep",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You're drifting off to sleep, and suddenly, you feel like you're falling. Your whole body jolts.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "jolt!"
+        ]
+      },
+      "emphasis": [
+        "falling.",
+        "jolts."
+      ]
+    },
+    {
+      "text": "That's called a hypnic jerk.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "hypnic",
+          "jerk"
+        ]
+      },
+      "emphasis": [
+        "hypnic"
+      ]
+    },
+    {
+      "text": "Around 70% of people have had one.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 14,
+        "label": "have felt one"
+      },
+      "emphasis": [
+        "70%"
+      ]
+    },
+    {
+      "text": "And about one in ten get them every single night.",
+      "visual": {
+        "type": "number",
+        "value": 10,
+        "label": "get them daily",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "ten"
+      ]
+    },
+    {
+      "text": "It happens right at the edge of sleep, as your muscles start to relax.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bed"
+        ],
+        "label": "the edge of sleep"
+      },
+      "emphasis": [
+        "relax."
+      ]
+    },
+    {
+      "text": "Nobody knows exactly why. One theory: your brain mistakes that relaxation for actually falling.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "relaxing or falling?"
+      },
+      "emphasis": [
+        "falling."
+      ]
+    },
+    {
+      "text": "So it jerks you awake to catch yourself.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "catch",
+          "yourself"
+        ]
+      },
+      "emphasis": [
+        "catch"
+      ]
+    },
+    {
+      "text": "Caffeine, stress, and being overtired can all make them more frequent.",
+      "visual": {
+        "type": "split",
+        "left": "caffeine",
+        "right": "stress",
+        "leftIcon": "coffee",
+        "rightIcon": "brain"
+      },
+      "emphasis": [
+        "Caffeine,",
+        "stress,"
+      ]
+    },
+    {
+      "text": "They're harmless. Just your brain, double checking you're not falling off something.",
+      "visual": {
+        "type": "question",
+        "label": "did you just feel one?"
+      },
+      "emphasis": [
+        "harmless."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "About 70% of people experience hypnic jerks, about 10% daily; occur at sleep onset; often with a falling sensation; cause unknown, theories include the brain misreading relaxation as falling; triggers include caffeine, stress and fatigue",
+      "url": "https://en.wikipedia.org/wiki/Hypnic_jerk"
+    }
+  ],
+  "publish": {
+    "title": "Why You Jolt Awake Right as You Fall Asleep 😴",
+    "description": "That falling feeling and sudden jerk has a name: a hypnic jerk. 70% of people have felt one.",
+    "hashtags": [
+      "shorts",
+      "sleep",
+      "humanbody",
+      "hypnicjerk",
+      "didyouknow"
+    ],
+    "pinned_comment": "How often does this happen to you? 👇"
+  }
+}

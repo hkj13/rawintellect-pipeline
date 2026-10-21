@@ -1,0 +1,128 @@
+{
+  "id": "008-invisible-gorilla",
+  "title": "Half of people missed the gorilla",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Half the people in this experiment missed a gorilla walking right in front of them.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 10,
+        "label": "never saw the gorilla"
+      },
+      "emphasis": [
+        "gorilla"
+      ]
+    },
+    {
+      "text": "In 1999, psychologists Daniel Simons and Christopher Chabris showed people a short video.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "Simons and Chabris, 1999"
+      },
+      "emphasis": [
+        "1999,"
+      ]
+    },
+    {
+      "text": "Two teams passing basketballs. The task was simple. Count the passes.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "count",
+          "the passes"
+        ]
+      },
+      "emphasis": [
+        "count"
+      ]
+    },
+    {
+      "text": "Partway through, a person in a gorilla suit walks right through the scene.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "a person in a gorilla suit"
+      },
+      "emphasis": [
+        "gorilla",
+        "suit"
+      ]
+    },
+    {
+      "text": "About half the viewers never noticed it.",
+      "visual": {
+        "type": "number",
+        "value": 50,
+        "label": "missed it completely",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "text": "It's called inattentional blindness.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "inattentional",
+          "blindness"
+        ]
+      },
+      "emphasis": [
+        "blindness."
+      ]
+    },
+    {
+      "text": "When your brain focuses hard on one thing, it can quietly filter out almost everything else.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "focus filters the world"
+      },
+      "emphasis": [
+        "filter"
+      ]
+    },
+    {
+      "text": "Which means right now, there could be a gorilla in your life you're not seeing.",
+      "visual": {
+        "type": "question",
+        "label": "what are you missing?"
+      },
+      "emphasis": [
+        "gorilla"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Simons and Chabris (1999): viewers counting basketball passes; about 50% failed to notice a person in a gorilla suit",
+      "url": "https://en.wikipedia.org/wiki/Inattentional_blindness"
+    }
+  ],
+  "publish": {
+    "title": "Half of People Miss a Gorilla in Plain Sight 🦍",
+    "description": "Count the passes and you might miss a gorilla. The famous 1999 experiment on inattentional blindness.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "invisiblegorilla",
+      "brain",
+      "attention"
+    ],
+    "pinned_comment": "Have you seen the original video? Did you spot the gorilla? 👇"
+  }
+}

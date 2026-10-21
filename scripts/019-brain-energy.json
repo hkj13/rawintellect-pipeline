@@ -1,0 +1,140 @@
+{
+  "id": "019-brain-energy",
+  "title": "2% of your weight, 20% of your energy",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Your brain is about 2% of your body weight, but it burns around 20% of your energy.",
+      "visual": {
+        "type": "compare",
+        "unit": "%",
+        "left": {
+          "label": "body weight",
+          "value": 2
+        },
+        "right": {
+          "label": "energy used",
+          "value": 20
+        }
+      },
+      "emphasis": [
+        "2%",
+        "20%"
+      ]
+    },
+    {
+      "text": "That's even when you're resting, doing nothing at all.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bed"
+        ],
+        "label": "even at rest"
+      },
+      "emphasis": [
+        "resting,"
+      ]
+    },
+    {
+      "text": "In power terms, that's roughly 20 watts.",
+      "visual": {
+        "type": "number",
+        "value": 20,
+        "label": "watts, roughly",
+        "suffix": " W"
+      },
+      "emphasis": [
+        "20",
+        "watts."
+      ]
+    },
+    {
+      "text": "About the same as a dim light bulb, running nonstop inside your head.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "a dim light bulb"
+      },
+      "emphasis": [
+        "light",
+        "bulb,"
+      ]
+    },
+    {
+      "text": "No other organ uses so much for its size.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "the",
+          "hungriest",
+          "organ"
+        ]
+      },
+      "emphasis": [
+        "hungriest"
+      ]
+    },
+    {
+      "text": "So when you feel drained after hard thinking, there's a real cost behind it.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "thinking costs fuel"
+      },
+      "emphasis": [
+        "drained"
+      ]
+    },
+    {
+      "text": "Your brain never fully switches off, not even while you sleep.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "never",
+          "off"
+        ]
+      },
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "text": "Twenty watts. That's what it takes to run you.",
+      "visual": {
+        "type": "number",
+        "value": 20,
+        "label": "watts to run you",
+        "suffix": " W"
+      },
+      "emphasis": [
+        "Twenty",
+        "watts."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Brain is about 2% of body weight and uses about 20% of resting energy, roughly 20 W (Drubach; Brown; Hart)",
+      "url": "https://hypertextbook.com/facts/2001/JacquelineLing.shtml"
+    }
+  ],
+  "publish": {
+    "title": "Your Brain Runs on 20 Watts 💡",
+    "description": "2% of your body weight, 20% of your energy. Your brain is the hungriest organ you own.",
+    "hashtags": [
+      "shorts",
+      "brain",
+      "humanbody",
+      "sciencefacts",
+      "didyouknow"
+    ],
+    "pinned_comment": "Does thinking hard make you hungry too? 🧠🍕👇"
+  }
+}

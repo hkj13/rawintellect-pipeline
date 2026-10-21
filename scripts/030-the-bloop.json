@@ -1,0 +1,138 @@
+{
+  "id": "030-the-bloop",
+  "title": "The loudest sound in the ocean, solved",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1997, underwater microphones picked up a sound so loud, it was heard over 5,000 kilometres away.",
+      "visual": {
+        "type": "wave",
+        "label": "the Bloop, 1997"
+      },
+      "emphasis": [
+        "5,000"
+      ]
+    },
+    {
+      "text": "It was recorded by a hydrophone array run by NOAA, in the Pacific Ocean.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "water"
+        ],
+        "label": "NOAA hydrophones"
+      },
+      "emphasis": [
+        "NOAA,"
+      ]
+    },
+    {
+      "text": "Scientists named it the Bloop.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "the",
+          "bloop"
+        ]
+      },
+      "emphasis": [
+        "Bloop."
+      ]
+    },
+    {
+      "text": "It was far more powerful than any known animal call.",
+      "visual": {
+        "type": "number",
+        "value": 5000,
+        "label": "kilometres away, it was heard",
+        "suffix": " KM",
+        "prefix": ">"
+      },
+      "emphasis": [
+        "powerful"
+      ]
+    },
+    {
+      "text": "So people started wondering. Was something enormous living down there?",
+      "visual": {
+        "type": "question",
+        "label": "a giant creature?"
+      },
+      "emphasis": [
+        "enormous"
+      ]
+    },
+    {
+      "text": "For years, it fuelled theories about unknown sea monsters.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bug"
+        ],
+        "label": "sea monster theories"
+      },
+      "emphasis": [
+        "monsters."
+      ]
+    },
+    {
+      "text": "The real answer turned out to be ice.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "it",
+          "was",
+          "ice"
+        ]
+      },
+      "emphasis": [
+        "ice."
+      ]
+    },
+    {
+      "text": "The sound matched an icequake, a huge piece of glacier cracking and breaking away.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "water"
+        ],
+        "label": "an icequake"
+      },
+      "emphasis": [
+        "icequake,"
+      ]
+    },
+    {
+      "text": "Still, it's a reminder. The ocean is louder, and stranger, than we think.",
+      "visual": {
+        "type": "wave",
+        "spike": false,
+        "label": "listening"
+      },
+      "emphasis": [
+        "stranger,"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Recorded 1997 by NOAA's Equatorial Pacific hydrophone array; detected over 5,000 km; far more powerful than any animal call; explained as a large icequake",
+      "url": "https://en.wikipedia.org/wiki/Bloop"
+    }
+  ],
+  "publish": {
+    "title": "The Loudest Sound in the Ocean Was Finally Explained 🌊",
+    "description": "The Bloop, 1997: a sound heard 5,000 km away that sparked sea monster theories. The real answer is wild too.",
+    "hashtags": [
+      "shorts",
+      "ocean",
+      "mystery",
+      "thebloop",
+      "science"
+    ],
+    "pinned_comment": "Were you hoping it was a sea monster? 🐙👇"
+  }
+}

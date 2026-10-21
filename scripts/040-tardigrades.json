@@ -1,0 +1,152 @@
+{
+  "id": "040-tardigrades",
+  "title": "The animal that survived open space",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "There's an animal smaller than a grain of sand that survived being sent into space.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bug"
+        ],
+        "label": "the tardigrade"
+      },
+      "emphasis": [
+        "space."
+      ]
+    },
+    {
+      "text": "Meet the tardigrade, also called the water bear.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "water",
+          "bear"
+        ]
+      },
+      "emphasis": [
+        "water",
+        "bear."
+      ]
+    },
+    {
+      "text": "Most are under half a millimetre long.",
+      "visual": {
+        "type": "number",
+        "value": 0.5,
+        "label": "millimetres, usually",
+        "decimals": 1,
+        "suffix": " MM",
+        "prefix": "<"
+      },
+      "emphasis": [
+        "half"
+      ]
+    },
+    {
+      "text": "When things get bad, it dries out into a ball called a tun, and its metabolism stops.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bug"
+        ],
+        "label": "the tun state"
+      },
+      "emphasis": [
+        "tun,"
+      ]
+    },
+    {
+      "text": "In that state, it can briefly survive from about minus 272 to plus 149 degrees Celsius.",
+      "visual": {
+        "type": "compare",
+        "unit": "°C",
+        "left": {
+          "label": "coldest",
+          "value": 272,
+          "display": "−272"
+        },
+        "right": {
+          "label": "hottest",
+          "value": 149,
+          "display": "+149"
+        }
+      },
+      "emphasis": [
+        "272",
+        "149"
+      ]
+    },
+    {
+      "text": "In 2007, scientists strapped dried tardigrades to a satellite, and exposed them to space for 10 days.",
+      "visual": {
+        "type": "number",
+        "value": 10,
+        "label": "days in open space"
+      },
+      "emphasis": [
+        "10",
+        "days."
+      ]
+    },
+    {
+      "text": "The vacuum alone didn't kill them. Some even survived the harsh solar UV.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "they",
+          "survived"
+        ]
+      },
+      "emphasis": [
+        "survived"
+      ]
+    },
+    {
+      "text": "They can go years without water, and carry a protein that helps shield their DNA.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "dna"
+        ],
+        "label": "Dsup protects DNA"
+      },
+      "emphasis": [
+        "years"
+      ]
+    },
+    {
+      "text": "If anything outlives us on this planet, it might be the water bear.",
+      "visual": {
+        "type": "question",
+        "label": "what can kill it?"
+      },
+      "emphasis": [
+        "water",
+        "bear."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Tardigrades (water bears): usually ~0.5 mm; tun state halts metabolism; survive about −272 to +149 °C briefly; 2007 FOTON-M3: 10 days in space, vacuum alone harmless, some survived UV; Dsup protein protects DNA",
+      "url": "https://en.wikipedia.org/wiki/Tardigrade"
+    }
+  ],
+  "publish": {
+    "title": "The Tiny Animal That Survived Open Space 🐻",
+    "description": "Tardigrades survived 10 days in space, temperatures near absolute zero, and years without water.",
+    "hashtags": [
+      "shorts",
+      "animals",
+      "tardigrade",
+      "science",
+      "space"
+    ],
+    "pinned_comment": "Would you want a pet water bear? 🐻👇"
+  }
+}
