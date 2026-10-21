@@ -202,7 +202,8 @@ const TimelineScene: React.FC<P> = ({v, accent, glow}) => {
             <Txt x={x} y={up ? CY - 70 : CY + 120} size={76} font="Anton" weight={400} spacing={0} color={hl ? accent : 'white'}>
               {p.year}
             </Txt>
-            <Lines text={String(p.label).toUpperCase()} x={x} y={up ? CY - 190 : CY + 180} size={30} max={13} opacity={0.85} />
+            {/* Labels above the line grow upward so a long one never runs into its year. */}
+            <Lines text={String(p.label).toUpperCase()} x={x} y={up ? CY - 160 - (wrap(String(p.label), 13).length - 1) * 30 * 1.25 : CY + 180} size={30} max={13} opacity={0.85} />
           </g>
         );
       })}
