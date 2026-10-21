@@ -9,6 +9,7 @@ Turns a short script file into a finished, YouTube-ready Short for the RawIntell
 3. **Music** (`pipeline/music.py`): an ambient bed and a whoosh, synthesized so there is no copyright risk. Drop a `music.wav` from the YouTube Audio Library into `public/<id>/` to use that track instead.
 4. **Video** (`remotion/`): a 1080x1920 Remotion template with word-by-word captions, animated scenes, a progress bar and a flash cut between scenes.
 5. **Master**: ffmpeg brings the audio to -14 LUFS, the level YouTube plays at.
+6. **Upload text** (`pipeline/upload_text.py`): writes `out/<id>.upload.txt` with the title, description, sources, hashtags and pinned comment from the script's `publish` block.
 
 ## Make a video
 
@@ -30,6 +31,7 @@ The first run downloads the Kokoro model (about 350 MB) into `models/`. In a clo
 - `pause` (seconds) holds after a line, for example while the viewer tries something.
 - `theme` is `psychology` (cyan) or `mystery` (red).
 - Every claim gets an entry in `sources`.
+- `publish` holds the YouTube title, description, hashtags (about 5, `shorts` first) and a pinned comment that asks a question.
 
 ## Voices
 

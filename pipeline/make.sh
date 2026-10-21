@@ -20,4 +20,5 @@ npx remotion render remotion/index.ts Short "out/$ID.raw.mp4" --props="{\"id\":\
 ffmpeg -v error -y -i "out/$ID.raw.mp4" -c:v libx264 -crf 19 -preset slow -pix_fmt yuv420p \
   -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k -ar 48000 -movflags +faststart "out/$ID.mp4"
 rm "out/$ID.raw.mp4"
-echo "Done: out/$ID.mp4"
+python3 pipeline/upload_text.py "$SCRIPT" > "out/$ID.upload.txt"
+echo "Done: out/$ID.mp4 and out/$ID.upload.txt"
