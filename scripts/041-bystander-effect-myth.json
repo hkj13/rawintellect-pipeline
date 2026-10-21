@@ -1,0 +1,158 @@
+{
+  "id": "041-bystander-effect-myth",
+  "title": "Why crowds don't help, or do they?",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You've probably heard that people in a crowd won't help you. That might be wrong.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "crowds",
+          "don't help?"
+        ]
+      },
+      "emphasis": [
+        "wrong."
+      ]
+    },
+    {
+      "text": "The idea is called the bystander effect. The more people watching, the less likely anyone helps.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 1,
+        "label": "who helps?"
+      },
+      "emphasis": [
+        "bystander"
+      ]
+    },
+    {
+      "text": "It became famous after a 1964 murder in New York, where 38 people supposedly watched and did nothing.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1964",
+            "label": "the story"
+          },
+          {
+            "year": "2016",
+            "label": "NYT: flawed"
+          }
+        ]
+      },
+      "emphasis": [
+        "38"
+      ]
+    },
+    {
+      "text": "But that story was exaggerated. There were far fewer witnesses, and police were called.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "exaggerated"
+        ]
+      },
+      "emphasis": [
+        "exaggerated."
+      ]
+    },
+    {
+      "text": "Lab studies still found an effect. In one, 70% of people alone helped, compared to 40% when paired with a stranger.",
+      "visual": {
+        "type": "compare",
+        "unit": "%",
+        "left": {
+          "label": "alone",
+          "value": 70
+        },
+        "right": {
+          "label": "with a stranger",
+          "value": 40
+        }
+      },
+      "emphasis": [
+        "70%",
+        "40%"
+      ]
+    },
+    {
+      "text": "Then in 2019, researchers studied real CCTV footage of 219 street fights.",
+      "visual": {
+        "type": "number",
+        "value": 219,
+        "label": "real street fights on CCTV"
+      },
+      "emphasis": [
+        "219"
+      ]
+    },
+    {
+      "text": "Bystanders stepped in over 90% of the time.",
+      "visual": {
+        "type": "number",
+        "value": 90,
+        "label": "of fights, someone stepped in",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "90%"
+      ]
+    },
+    {
+      "text": "And the more people were around, the more likely someone helped.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "more",
+          "people",
+          "more help"
+        ]
+      },
+      "emphasis": [
+        "more"
+      ]
+    },
+    {
+      "text": "So maybe people are braver than the textbooks say.",
+      "visual": {
+        "type": "question",
+        "label": "would you step in?"
+      },
+      "emphasis": [
+        "braver"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Kitty Genovese story exaggerated: far fewer than 38 witnesses, police called; NYT called its reporting flawed in 2016",
+      "url": "https://en.wikipedia.org/wiki/Bystander_effect"
+    },
+    {
+      "claim": "Latané and Rodin (1969): 70% helped alone vs 40% with a stranger",
+      "url": "https://en.wikipedia.org/wiki/Bystander_effect"
+    },
+    {
+      "claim": "Philpot et al. (2019): 219 CCTV-recorded conflicts; bystanders intervened in over 90%, more likely with more bystanders",
+      "url": "https://en.wikipedia.org/wiki/Bystander_effect"
+    }
+  ],
+  "publish": {
+    "title": "The Bystander Effect Might Be Wrong 👥",
+    "description": "Real CCTV footage of 219 street fights showed someone stepped in over 90% of the time.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "bystandereffect",
+      "humannature",
+      "science"
+    ],
+    "pinned_comment": "Would you step in? Be honest 👇"
+  }
+}

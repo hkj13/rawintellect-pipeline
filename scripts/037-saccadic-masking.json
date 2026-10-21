@@ -1,0 +1,134 @@
+{
+  "id": "037-saccadic-masking",
+  "title": "You can't see your own eyes move",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Look in a mirror and try to watch your own eyes move. You can't.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "try it in a mirror"
+      },
+      "emphasis": [
+        "can't."
+      ]
+    },
+    {
+      "text": "Look from your left eye to your right eye. Someone watching you sees your eyes move. You see nothing.",
+      "visual": {
+        "type": "split",
+        "left": "they see movement",
+        "right": "you see nothing",
+        "leftIcon": "person",
+        "rightIcon": "eye"
+      },
+      "emphasis": [
+        "nothing."
+      ]
+    },
+    {
+      "text": "That's because your brain blocks your vision during every quick eye movement.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "vision switched off"
+      },
+      "emphasis": [
+        "blocks"
+      ]
+    },
+    {
+      "text": "It's called saccadic masking.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "saccadic",
+          "masking"
+        ]
+      },
+      "emphasis": [
+        "saccadic"
+      ]
+    },
+    {
+      "text": "Without it, the world would blur every time you glanced at something.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "blur"
+        ]
+      },
+      "emphasis": [
+        "blur"
+      ]
+    },
+    {
+      "text": "It was first described in 1898.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1898",
+            "label": "first described"
+          },
+          {
+            "year": "NOW",
+            "label": "still happening"
+          }
+        ]
+      },
+      "emphasis": [
+        "1898."
+      ]
+    },
+    {
+      "text": "Your brain then stitches the gaps together, so your vision feels smooth.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gear"
+        ],
+        "label": "stitched seamlessly"
+      },
+      "emphasis": [
+        "stitches"
+      ]
+    },
+    {
+      "text": "So many times every minute, you're blind for a split second, and you never notice.",
+      "visual": {
+        "type": "question",
+        "label": "did you notice?"
+      },
+      "emphasis": [
+        "blind"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Saccadic masking: the brain suppresses vision during saccades; first described by Erdmann and Dodge in 1898; you cannot see your own eyes move in a mirror",
+      "url": "https://en.wikipedia.org/wiki/Saccadic_masking"
+    }
+  ],
+  "publish": {
+    "title": "You Can't See Your Own Eyes Move 🪞",
+    "description": "Try it in a mirror. Your brain switches off your vision during every eye movement. It's called saccadic masking.",
+    "hashtags": [
+      "shorts",
+      "brain",
+      "trythis",
+      "vision",
+      "didyouknow"
+    ],
+    "pinned_comment": "Did you try it in a mirror? 👀👇"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "006-wow-signal",
+  "title": "72 seconds from deep space",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1977, a telescope picked up a signal from space so strong, the astronomer wrote one word next to it.",
+      "visual": {
+        "type": "wave",
+        "label": "Big Ear, 1977"
+      },
+      "emphasis": [
+        "one",
+        "word"
+      ]
+    },
+    {
+      "text": "Wow!",
+      "visual": {
+        "type": "words",
+        "words": [
+          "wow!"
+        ]
+      },
+      "emphasis": [
+        "Wow!"
+      ]
+    },
+    {
+      "text": "It hit Ohio State's Big Ear radio telescope on August 15th, 1977.",
+      "visual": {
+        "type": "pin",
+        "place": "Big Ear, Ohio",
+        "detail": "August 15, 1977",
+        "dx": -40
+      },
+      "emphasis": [
+        "Big",
+        "Ear"
+      ]
+    },
+    {
+      "text": "It lasted 72 seconds, exactly as long as the telescope could watch that spot in the sky.",
+      "visual": {
+        "type": "number",
+        "value": 72,
+        "label": "seconds of signal"
+      },
+      "emphasis": [
+        "72"
+      ]
+    },
+    {
+      "text": "On the printout it showed up as six characters. Six, E, Q, U, J, five.",
+      "visual": {
+        "type": "wave",
+        "code": "6EQUJ5",
+        "label": "the printout"
+      },
+      "emphasis": [
+        "six",
+        "characters."
+      ]
+    },
+    {
+      "text": "Astronomer Jerry Ehman circled them and wrote Wow in the margin.",
+      "visual": {
+        "type": "quote",
+        "text": "Wow!",
+        "by": "Jerry Ehman, 1977"
+      },
+      "emphasis": [
+        "Wow"
+      ]
+    },
+    {
+      "text": "Astronomers searched that patch of sky again and again. It never came back.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "never",
+          "repeated"
+        ]
+      },
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "text": "In 2024, researchers suggested a rare flare from a cold hydrogen cloud. It is still not proven.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "hydrogen cloud theory"
+      },
+      "emphasis": [
+        "not",
+        "proven."
+      ]
+    },
+    {
+      "text": "So was it nature, or someone saying hello?",
+      "visual": {
+        "type": "question",
+        "label": "nature or a message?"
+      },
+      "emphasis": [
+        "hello?"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Detected August 15, 1977 by Ohio State's Big Ear telescope; lasted the full 72-second window; Jerry Ehman wrote Wow!",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal"
+    },
+    {
+      "claim": "6EQUJ5 encodes signal intensity, not a message; follow-up searches never detected it again",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal"
+    },
+    {
+      "claim": "2024 preprint proposes a cold hydrogen cloud brightened by a stellar flare; not yet confirmed",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal"
+    }
+  ],
+  "publish": {
+    "title": "72 Seconds From Deep Space That Never Came Back 📡",
+    "description": "In 1977 a radio telescope caught a signal so strong the astronomer wrote \"Wow!\" next to it. It has never been heard again.",
+    "hashtags": [
+      "shorts",
+      "space",
+      "wowsignal",
+      "mystery",
+      "aliens"
+    ],
+    "pinned_comment": "Nature or a message? 👽 Vote below 👇"
+  }
+}

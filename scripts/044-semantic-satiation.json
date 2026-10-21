@@ -1,0 +1,130 @@
+{
+  "id": "044-semantic-satiation",
+  "title": "Say a word until it means nothing",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Say the word spoon out loud, over and over. Spoon. Spoon. Spoon. Spoon. Spoon. Spoon.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "spoon",
+          "spoon",
+          "spoon"
+        ]
+      },
+      "emphasis": [
+        "spoon."
+      ]
+    },
+    {
+      "text": "Does it still sound like a real word?",
+      "visual": {
+        "type": "question",
+        "label": "still a word?"
+      },
+      "emphasis": [
+        "real"
+      ]
+    },
+    {
+      "text": "That strange feeling has a name. Semantic satiation.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "semantic",
+          "satiation"
+        ]
+      },
+      "emphasis": [
+        "satiation."
+      ]
+    },
+    {
+      "text": "The term was coined in 1962 by psychologist Leon Jakobovits James, at McGill University.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1962",
+            "label": "the term is coined"
+          }
+        ]
+      },
+      "emphasis": [
+        "1962"
+      ]
+    },
+    {
+      "text": "One idea is that repeating a word makes the brain's response to it weaker each time.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "response fades"
+      },
+      "emphasis": [
+        "weaker"
+      ]
+    },
+    {
+      "text": "The sound keeps coming, but the meaning stops arriving.",
+      "visual": {
+        "type": "split",
+        "left": "sound: yes",
+        "right": "meaning: gone"
+      },
+      "emphasis": [
+        "meaning"
+      ]
+    },
+    {
+      "text": "It only takes a few seconds of repetition to happen.",
+      "visual": {
+        "type": "number",
+        "value": 5,
+        "label": "seconds or so",
+        "prefix": "~"
+      },
+      "emphasis": [
+        "seconds"
+      ]
+    },
+    {
+      "text": "Now try it with your own name.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "your",
+          "own",
+          "name"
+        ]
+      },
+      "emphasis": [
+        "name."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Semantic satiation: term coined by Leon Jakobovits James in his 1962 McGill dissertation; repetition for several seconds; possibly a form of reactive inhibition",
+      "url": "https://en.wikipedia.org/wiki/Semantic_satiation"
+    }
+  ],
+  "publish": {
+    "title": "Say a Word Until It Means Nothing 🥄",
+    "description": "Repeat any word for a few seconds and it turns into noise. It's called semantic satiation. Try it.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "brain",
+      "trythis",
+      "language"
+    ],
+    "pinned_comment": "Which word broke your brain the fastest? 👇"
+  }
+}

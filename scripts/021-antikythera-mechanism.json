@@ -1,0 +1,151 @@
+{
+  "id": "021-antikythera-mechanism",
+  "title": "A 2,000-year-old computer",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Divers found a 2,000-year-old computer at the bottom of the sea.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gear"
+        ],
+        "label": "the Antikythera mechanism"
+      },
+      "emphasis": [
+        "computer"
+      ]
+    },
+    {
+      "text": "In 1901, sponge divers explored a Roman-era shipwreck off the Greek island of Antikythera.",
+      "visual": {
+        "type": "pin",
+        "place": "Antikythera, Greece",
+        "detail": "found 1901",
+        "dx": 50
+      },
+      "emphasis": [
+        "1901,"
+      ]
+    },
+    {
+      "text": "Among the statues and coins was a corroded lump of bronze.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gear"
+        ],
+        "label": "a corroded lump"
+      },
+      "emphasis": [
+        "bronze."
+      ]
+    },
+    {
+      "text": "A year later, someone noticed a gear wheel inside it.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "a",
+          "gear"
+        ]
+      },
+      "emphasis": [
+        "gear"
+      ]
+    },
+    {
+      "text": "Scans have since revealed around 30 surviving bronze gears.",
+      "visual": {
+        "type": "number",
+        "value": 30,
+        "label": "surviving bronze gears"
+      },
+      "emphasis": [
+        "30"
+      ]
+    },
+    {
+      "text": "It was a hand-cranked model of the heavens. It tracked the Sun and Moon, and predicted eclipses years ahead.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star",
+          "gear"
+        ],
+        "label": "a model of the sky"
+      },
+      "emphasis": [
+        "eclipses"
+      ]
+    },
+    {
+      "text": "It was built in the second century BC.",
+      "visual": {
+        "type": "number",
+        "value": 150,
+        "label": "BC, approximately",
+        "suffix": " BC",
+        "prefix": "~"
+      },
+      "emphasis": [
+        "second",
+        "century"
+      ]
+    },
+    {
+      "text": "Nothing this complex appears again for about 1,500 years.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "~150 BC",
+            "label": "the mechanism"
+          },
+          {
+            "year": "1300s",
+            "label": "astronomical clocks"
+          }
+        ]
+      },
+      "emphasis": [
+        "1,500"
+      ]
+    },
+    {
+      "text": "So who built it, and what else did they know?",
+      "visual": {
+        "type": "question",
+        "label": "who built it?"
+      },
+      "emphasis": [
+        "who"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Found 1901 in a Roman-era shipwreck off Antikythera; gear noticed in 1902; built in the 2nd century BC",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+    },
+    {
+      "claim": "CT scans suggest 35 meshing gears, 30 surviving; tracked Sun and Moon and predicted eclipses; comparable complexity only in 14th-century astronomical clocks",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+    }
+  ],
+  "publish": {
+    "title": "The 2,000-Year-Old Computer Found in a Shipwreck ⚙️",
+    "description": "The Antikythera mechanism predicted eclipses in ancient Greece. Nothing this complex appeared again for 1,500 years.",
+    "hashtags": [
+      "shorts",
+      "history",
+      "antikythera",
+      "ancientmysteries",
+      "archaeology"
+    ],
+    "pinned_comment": "What other lost technology do you think the ancients had? 👇"
+  }
+}

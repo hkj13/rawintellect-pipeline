@@ -1,0 +1,145 @@
+{
+  "id": "045-mandela-effect",
+  "title": "Millions remember something that never was",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Millions of people remember things that never happened. The same wrong memory, shared by strangers.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 16,
+        "label": "the same false memory"
+      },
+      "emphasis": [
+        "never"
+      ]
+    },
+    {
+      "text": "It's called the Mandela effect.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "the mandela",
+          "effect"
+        ]
+      },
+      "emphasis": [
+        "Mandela"
+      ]
+    },
+    {
+      "text": "Researcher Fiona Broome named it after remembering Nelson Mandela dying in prison in the 1980s.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "book"
+        ],
+        "label": "the Mandela memory"
+      },
+      "emphasis": [
+        "prison"
+      ]
+    },
+    {
+      "text": "He actually died in 2013, years after becoming president.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1980s",
+            "label": "the false memory"
+          },
+          {
+            "year": "1994",
+            "label": "president"
+          },
+          {
+            "year": "2013",
+            "label": "dies"
+          }
+        ]
+      },
+      "emphasis": [
+        "2013,"
+      ]
+    },
+    {
+      "text": "And hundreds of people said they remembered it too.",
+      "visual": "same",
+      "emphasis": [
+        "hundreds"
+      ]
+    },
+    {
+      "text": "Do you remember the Berenstein Bears? It was always Berenstain.",
+      "visual": {
+        "type": "split",
+        "left": "berenstein",
+        "right": "berenstain"
+      },
+      "emphasis": [
+        "Berenstain."
+      ]
+    },
+    {
+      "text": "Darth Vader never said, Luke, I am your father. He said, No, I am your father.",
+      "visual": {
+        "type": "quote",
+        "text": "No, I am your father",
+        "by": "the real line"
+      },
+      "emphasis": [
+        "No,"
+      ]
+    },
+    {
+      "text": "And Mr Monopoly has never worn a monocle.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "no",
+          "monocle"
+        ]
+      },
+      "emphasis": [
+        "monocle."
+      ]
+    },
+    {
+      "text": "Psychologists think shared false memories come from shared assumptions. But some people insist reality changed.",
+      "visual": {
+        "type": "question",
+        "label": "memory or reality?"
+      },
+      "emphasis": [
+        "reality"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Mandela effect named by Fiona Broome after a false memory of Mandela dying in prison in the 1980s (he died in 2013); examples: Berenstain Bears, 'No, I am your father', Mr Monopoly's monocle",
+      "url": "https://en.wikipedia.org/wiki/False_memory"
+    },
+    {
+      "claim": "Prasad & Bainbridge (2022) on the visual Mandela effect as shared false memories",
+      "url": "https://en.wikipedia.org/wiki/Mandela_effect"
+    }
+  ],
+  "publish": {
+    "title": "Millions Remember Things That Never Happened 🌀",
+    "description": "Berenstain, not Berenstein. 'No, I am your father.' No monocle. The Mandela effect explained.",
+    "hashtags": [
+      "shorts",
+      "mandelaeffect",
+      "mystery",
+      "falsememory",
+      "mindblown"
+    ],
+    "pinned_comment": "Which Mandela effect got you? 👇"
+  }
+}

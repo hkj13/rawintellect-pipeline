@@ -1,0 +1,136 @@
+{
+  "id": "050-time-speeds-up",
+  "title": "Why years feel shorter now",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Remember when summer felt like forever? Now whole years disappear.",
+      "visual": {
+        "type": "clock",
+        "hold": 0.2
+      },
+      "emphasis": [
+        "forever?"
+      ]
+    },
+    {
+      "text": "One idea, from 1877, is the proportional theory.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "proportional",
+          "theory"
+        ]
+      },
+      "emphasis": [
+        "proportional"
+      ]
+    },
+    {
+      "text": "When you're five, one year is a fifth of your entire life.",
+      "visual": {
+        "type": "number",
+        "value": 20,
+        "label": "of a five-year-old's life",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "fifth"
+      ]
+    },
+    {
+      "text": "When you're fifty, it's just one fiftieth.",
+      "visual": {
+        "type": "number",
+        "value": 2,
+        "label": "of a fifty-year-old's life",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "fiftieth."
+      ]
+    },
+    {
+      "text": "The other big idea is novelty.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "novelty"
+        ]
+      },
+      "emphasis": [
+        "novelty."
+      ]
+    },
+    {
+      "text": "As a kid, everything is new, so your brain records lots of detailed memories.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "new = remembered"
+      },
+      "emphasis": [
+        "new,"
+      ]
+    },
+    {
+      "text": "As adults, routine days blur together. Fewer new memories make the time feel shorter looking back.",
+      "visual": {
+        "type": "split",
+        "left": "childhood: new",
+        "right": "adult: routine"
+      },
+      "emphasis": [
+        "blur"
+      ]
+    },
+    {
+      "text": "William James wrote that the years grow hollow and collapse.",
+      "visual": {
+        "type": "quote",
+        "text": "The years grow hollow and collapse",
+        "by": "William James, 1890"
+      },
+      "emphasis": [
+        "hollow"
+      ]
+    },
+    {
+      "text": "So if you want a year to feel longer, fill it with new things.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "do",
+          "new",
+          "things"
+        ]
+      },
+      "emphasis": [
+        "new"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Proportional (ratio) theory from 1877; novelty explanation from William James, Principles of Psychology (1890): 'the years grow hollow and collapse'",
+      "url": "https://bigthink.com/personal-growth/why-does-time-seem-to-move-faster-as-we-grow-older/"
+    }
+  ],
+  "publish": {
+    "title": "Why Time Speeds Up As You Get Older ⏳",
+    "description": "A year is 20% of a five-year-old's life, and 2% of a fifty-year-old's. Plus why routine makes years vanish.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "time",
+      "aging",
+      "mindset"
+    ],
+    "pinned_comment": "Does this year feel like it flew by? 👇"
+  }
+}

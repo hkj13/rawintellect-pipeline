@@ -1,0 +1,128 @@
+{
+  "id": "029-open-label-placebo",
+  "title": "Placebos work even when you know",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "What if a sugar pill worked, even when you knew it was a sugar pill?",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star"
+        ],
+        "label": "a sugar pill"
+      },
+      "emphasis": [
+        "knew"
+      ]
+    },
+    {
+      "text": "In 2010, Harvard researcher Ted Kaptchuk tested exactly that.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "Kaptchuk et al., 2010"
+      },
+      "emphasis": [
+        "Harvard"
+      ]
+    },
+    {
+      "text": "80 people with irritable bowel syndrome took part.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 10,
+        "label": "80 patients, two groups"
+      },
+      "emphasis": [
+        "80"
+      ]
+    },
+    {
+      "text": "Half got pills in a bottle clearly labelled placebo, and were told they contained nothing active.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "placebo",
+          "no secret"
+        ]
+      },
+      "emphasis": [
+        "placebo,"
+      ]
+    },
+    {
+      "text": "The other half got no pills at all.",
+      "visual": {
+        "type": "split",
+        "left": "honest placebo",
+        "right": "no pills"
+      },
+      "emphasis": [
+        "no",
+        "pills"
+      ]
+    },
+    {
+      "text": "After three weeks, the placebo group reported significantly better improvement in their symptoms.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "it",
+          "worked"
+        ]
+      },
+      "emphasis": [
+        "significantly",
+        "better"
+      ]
+    },
+    {
+      "text": "They didn't have to believe in it. They just had to take the pills.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "the ritual matters"
+      },
+      "emphasis": [
+        "believe"
+      ]
+    },
+    {
+      "text": "Scientists are still working out why. The ritual of treatment may matter more than we think.",
+      "visual": {
+        "type": "question",
+        "label": "how does it work?"
+      },
+      "emphasis": [
+        "ritual"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Kaptchuk et al. (PLoS ONE, 2010): 80 IBS patients; open-label placebo vs no treatment; significantly better global improvement at 11 and 21 days",
+      "url": "https://www.hospimedica.com/critical-care/articles/294732821/placebos-work-even-without-the-deception.html"
+    }
+  ],
+  "publish": {
+    "title": "Placebos Work Even When You KNOW It's a Placebo 💊",
+    "description": "A 2010 Harvard study gave patients pills labelled 'placebo'. They still got better.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "placebo",
+      "science",
+      "mindbody"
+    ],
+    "pinned_comment": "Would you take an honest placebo? 👇"
+  }
+}

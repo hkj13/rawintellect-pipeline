@@ -1,0 +1,135 @@
+{
+  "id": "014-ben-franklin-effect",
+  "title": "Ask a favour to make someone like you",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Want someone to like you more? Ask them for a favour.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "ask",
+          "a favour"
+        ]
+      },
+      "emphasis": [
+        "favour."
+      ]
+    },
+    {
+      "text": "Benjamin Franklin had a political rival who disliked him.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "Benjamin Franklin"
+      },
+      "emphasis": [
+        "rival"
+      ]
+    },
+    {
+      "text": "So Franklin asked to borrow a rare book from the man's library.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "book"
+        ],
+        "label": "a rare book"
+      },
+      "emphasis": [
+        "borrow"
+      ]
+    },
+    {
+      "text": "The rival lent it. Franklin returned it with a warm thank you note.",
+      "visual": "same",
+      "emphasis": [
+        "thank",
+        "you"
+      ]
+    },
+    {
+      "text": "After that, the rival started speaking to him, and they became lifelong friends.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "lifelong",
+          "friends"
+        ]
+      },
+      "emphasis": [
+        "friends."
+      ]
+    },
+    {
+      "text": "In 1969, psychologists Jecker and Landy put it to the test.",
+      "visual": {
+        "type": "split",
+        "left": "asked for a favour",
+        "right": "liked him more",
+        "leftIcon": "person",
+        "rightIcon": "star"
+      },
+      "emphasis": [
+        "1969,"
+      ]
+    },
+    {
+      "text": "People asked directly by a researcher to return their winnings ended up liking him more than people who weren't asked.",
+      "visual": "same",
+      "emphasis": [
+        "more"
+      ]
+    },
+    {
+      "text": "Your brain sees itself helping, and decides, I must like this person.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "I must like them"
+      },
+      "emphasis": [
+        "like"
+      ]
+    },
+    {
+      "text": "So next time, don't do someone a favour. Let them do one for you.",
+      "visual": {
+        "type": "question",
+        "label": "who will you ask?"
+      },
+      "emphasis": [
+        "you."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Franklin borrowed a rare book from a rival legislator, who then became a lasting friend",
+      "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect"
+    },
+    {
+      "claim": "Jecker and Landy (1969): students personally asked by the researcher to return winnings liked him most; asked via a secretary liked him least",
+      "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect"
+    }
+  ],
+  "publish": {
+    "title": "Ask for a Favour to Make Someone Like You 🤝",
+    "description": "Benjamin Franklin turned a rival into a friend by borrowing a book. Psychologists later tested why it works.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "benfranklineffect",
+      "persuasion",
+      "mindset"
+    ],
+    "pinned_comment": "Have you ever won someone over by asking for help? 👇"
+  }
+}

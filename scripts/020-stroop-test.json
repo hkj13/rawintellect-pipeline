@@ -1,0 +1,176 @@
+{
+  "id": "020-stroop-test",
+  "title": "Say the colour, not the word",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Try this. Say the colour of each word out loud. Not the word. The colour.",
+      "visual": {
+        "type": "stroop",
+        "items": [
+          [
+            "red",
+            "blue"
+          ],
+          [
+            "green",
+            "red"
+          ],
+          [
+            "blue",
+            "yellow"
+          ],
+          [
+            "yellow",
+            "green"
+          ],
+          [
+            "purple",
+            "orange"
+          ],
+          [
+            "orange",
+            "purple"
+          ]
+        ]
+      },
+      "emphasis": [
+        "colour."
+      ],
+      "pause": 4.0
+    },
+    {
+      "text": "Harder than it should be, right?",
+      "visual": "same",
+      "emphasis": [
+        "Harder"
+      ]
+    },
+    {
+      "text": "It's called the Stroop effect, published by psychologist John Ridley Stroop in 1935.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1929",
+            "label": "first reported in Germany"
+          },
+          {
+            "year": "1935",
+            "label": "Stroop publishes"
+          }
+        ]
+      },
+      "emphasis": [
+        "Stroop"
+      ]
+    },
+    {
+      "text": "Your brain reads words automatically. You can't switch it off.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "reading is automatic"
+      },
+      "emphasis": [
+        "automatically."
+      ]
+    },
+    {
+      "text": "So the word arrives first, and fights with the colour you're trying to name.",
+      "visual": {
+        "type": "split",
+        "left": "the word",
+        "right": "the colour"
+      },
+      "emphasis": [
+        "fights"
+      ]
+    },
+    {
+      "text": "Overriding it takes real effort. That's the slowdown you just felt.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "brain",
+          "conflict"
+        ]
+      },
+      "emphasis": [
+        "effort."
+      ]
+    },
+    {
+      "text": "Psychologists still use this test to measure attention and focus.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "a test of attention"
+      },
+      "emphasis": [
+        "attention"
+      ]
+    },
+    {
+      "text": "Go back and try again. Faster this time.",
+      "visual": {
+        "type": "stroop",
+        "items": [
+          [
+            "blue",
+            "red"
+          ],
+          [
+            "yellow",
+            "blue"
+          ],
+          [
+            "red",
+            "green"
+          ],
+          [
+            "orange",
+            "yellow"
+          ],
+          [
+            "green",
+            "purple"
+          ],
+          [
+            "purple",
+            "orange"
+          ]
+        ]
+      },
+      "emphasis": [
+        "Faster"
+      ],
+      "pause": 2.5
+    }
+  ],
+  "sources": [
+    {
+      "claim": "J. Ridley Stroop published the effect in 1935 (Jaensch reported it in 1929); naming ink colour of a conflicting colour word is slower because reading is automatic",
+      "url": "https://en.wikipedia.org/wiki/Stroop_effect"
+    }
+  ],
+  "publish": {
+    "title": "Say the COLOUR, Not the Word 🎨 (Harder Than It Looks)",
+    "description": "Try the Stroop test. Your brain can't stop reading, and it shows. Comment how far you got without slipping.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "brainteaser",
+      "stroopeffect",
+      "challenge"
+    ],
+    "pinned_comment": "How many did you get right on the first try? Be honest 👇"
+  }
+}

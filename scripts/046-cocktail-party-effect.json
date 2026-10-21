@@ -1,0 +1,129 @@
+{
+  "id": "046-cocktail-party-effect",
+  "title": "You hear your name through any noise",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In a loud room, you're ignoring every conversation. Then someone says your name, and you hear it instantly.",
+      "visual": {
+        "type": "wave",
+        "spike": true,
+        "label": "your name"
+      },
+      "emphasis": [
+        "name,"
+      ]
+    },
+    {
+      "text": "It's called the cocktail party effect.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "cocktail",
+          "party",
+          "effect"
+        ]
+      },
+      "emphasis": [
+        "cocktail"
+      ]
+    },
+    {
+      "text": "In 1953, scientist Colin Cherry played people two messages at once and asked them to follow just one.",
+      "visual": {
+        "type": "split",
+        "left": "message one",
+        "right": "message two",
+        "leftIcon": "ear",
+        "rightIcon": "ear"
+      },
+      "emphasis": [
+        "1953,"
+      ]
+    },
+    {
+      "text": "People could barely say anything about the message they were ignoring.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "ignored"
+        ]
+      },
+      "emphasis": [
+        "barely"
+      ]
+    },
+    {
+      "text": "But some still caught their own name in it.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "except",
+          "your name"
+        ]
+      },
+      "emphasis": [
+        "own",
+        "name"
+      ]
+    },
+    {
+      "text": "Your brain is always quietly scanning the noise for things that matter to you.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain",
+          "ear"
+        ],
+        "label": "a silent filter"
+      },
+      "emphasis": [
+        "scanning"
+      ]
+    },
+    {
+      "text": "Your name is one of the strongest signals it listens for.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "ear"
+        ],
+        "label": "always listening"
+      },
+      "emphasis": [
+        "strongest"
+      ]
+    },
+    {
+      "text": "So you're never really ignoring the room. Your brain just isn't telling you.",
+      "visual": {
+        "type": "question",
+        "label": "who just said your name?"
+      },
+      "emphasis": [
+        "never"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Cocktail party effect: Colin Cherry (1953) dichotic listening and shadowing; participants detected their own name in the unattended channel; Moray (1959) found little of the rejected message gets through except important items",
+      "url": "https://en.wikipedia.org/wiki/Cocktail_party_effect"
+    }
+  ],
+  "publish": {
+    "title": "Why You Hear Your Name Through Any Noise 🎧",
+    "description": "The cocktail party effect: your brain filters the whole room but still catches your name.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "brain",
+      "attention",
+      "didyouknow"
+    ],
+    "pinned_comment": "Ever heard your name across a loud room? 👇"
+  }
+}

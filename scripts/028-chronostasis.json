@@ -1,0 +1,123 @@
+{
+  "id": "028-chronostasis",
+  "title": "Why the first clock second feels too long",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Look at this clock. Does the first second feel longer than the rest?",
+      "visual": {
+        "type": "clock",
+        "hold": 1.4
+      },
+      "emphasis": [
+        "longer"
+      ],
+      "pause": 2.0
+    },
+    {
+      "text": "That's not your imagination. It's called chronostasis, or the stopped clock illusion.",
+      "visual": "same",
+      "emphasis": [
+        "chronostasis,"
+      ]
+    },
+    {
+      "text": "When your eyes jump to something new, you're effectively blind for a split second.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "a quick eye jump"
+      },
+      "emphasis": [
+        "blind"
+      ]
+    },
+    {
+      "text": "Your brain hides that gap.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "the gap gets hidden"
+      },
+      "emphasis": [
+        "hides"
+      ]
+    },
+    {
+      "text": "It fills it in with what you see after your eyes land, so the first moment seems stretched.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "time",
+          "stretched"
+        ]
+      },
+      "emphasis": [
+        "stretched."
+      ]
+    },
+    {
+      "text": "The effect can make a moment seem up to half a second longer.",
+      "visual": {
+        "type": "number",
+        "value": 0.5,
+        "label": "seconds of extra time",
+        "decimals": 1,
+        "suffix": "s"
+      },
+      "emphasis": [
+        "half"
+      ]
+    },
+    {
+      "text": "Your brain is literally editing time so your vision looks seamless.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gear"
+        ],
+        "label": "editing time"
+      },
+      "emphasis": [
+        "editing",
+        "time"
+      ]
+    },
+    {
+      "text": "Now look back at the clock.",
+      "visual": {
+        "type": "clock",
+        "hold": 1.4
+      },
+      "emphasis": [
+        "clock."
+      ],
+      "pause": 1.5
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Chronostasis (stopped-clock illusion): after a saccade, the first impression seems longer, by up to about half a second; the brain fills in the saccadic gap",
+      "url": "https://en.wikipedia.org/wiki/Chronostasis"
+    }
+  ],
+  "publish": {
+    "title": "Why the First Second on a Clock Feels Too Long ⏱️",
+    "description": "The stopped clock illusion: your brain edits time every time your eyes move. Try it on any clock.",
+    "hashtags": [
+      "shorts",
+      "brain",
+      "illusion",
+      "chronostasis",
+      "didyouknow"
+    ],
+    "pinned_comment": "Did the first second freeze for you? Try it on a real clock 👇"
+  }
+}

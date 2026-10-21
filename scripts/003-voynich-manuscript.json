@@ -1,0 +1,151 @@
+{
+  "id": "003-voynich-manuscript",
+  "title": "A 600-year-old book nobody can read",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "There is a book, around 600 years old, that nobody on Earth can read.",
+      "visual": {
+        "type": "cipher",
+        "label": "the Voynich manuscript"
+      },
+      "emphasis": [
+        "nobody"
+      ]
+    },
+    {
+      "text": "Every page is written in a script that no one has ever identified.",
+      "visual": "same",
+      "emphasis": [
+        "no",
+        "one"
+      ]
+    },
+    {
+      "text": "Carbon dating puts its pages between 1404 and 1438.",
+      "visual": {
+        "type": "number",
+        "value": 1404,
+        "label": "vellum carbon dated 1404 to 1438",
+        "from": 1000,
+        "plain": true
+      },
+      "emphasis": [
+        "1404"
+      ]
+    },
+    {
+      "text": "It's packed with plants nobody can identify, strange star charts, and tiny figures bathing in pools.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "tree",
+          "star",
+          "water"
+        ]
+      },
+      "emphasis": [
+        "plants",
+        "star",
+        "pools."
+      ]
+    },
+    {
+      "text": "Codebreakers from both World Wars tried to crack it. Every one of them failed.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gear"
+        ],
+        "label": "WWI and WWII codebreakers"
+      },
+      "emphasis": [
+        "failed."
+      ]
+    },
+    {
+      "text": "A book dealer named Wilfrid Voynich bought it in 1912, and it still carries his name.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1404",
+            "label": "pages made"
+          },
+          {
+            "year": "1912",
+            "label": "Voynich buys it"
+          },
+          {
+            "year": "1969",
+            "label": "given to Yale"
+          }
+        ]
+      },
+      "emphasis": [
+        "1912,"
+      ]
+    },
+    {
+      "text": "Today it sits in Yale's rare book library, catalogued as MS 408.",
+      "visual": {
+        "type": "pin",
+        "place": "Yale, Beinecke Library",
+        "detail": "MS 408",
+        "dx": 40
+      },
+      "emphasis": [
+        "408."
+      ]
+    },
+    {
+      "text": "Is it a lost language, a code, or one of history's greatest hoaxes?",
+      "visual": {
+        "type": "question",
+        "label": "language, code or hoax?"
+      },
+      "emphasis": [
+        "hoaxes?"
+      ]
+    },
+    {
+      "text": "Six centuries later, the book is still keeping its secret.",
+      "visual": {
+        "type": "cipher",
+        "label": "still unread"
+      },
+      "emphasis": [
+        "secret."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Vellum radiocarbon dated 1404 to 1438 (University of Arizona, 2009); never demonstrably deciphered",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+    },
+    {
+      "claim": "WWI and WWII codebreakers including William Friedman studied it unsuccessfully; hoax theories exist",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+    },
+    {
+      "claim": "Wilfrid Voynich acquired it in 1912; donated to Yale in 1969; held at Beinecke Library as MS 408",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+    }
+  ],
+  "publish": {
+    "title": "The 600-Year-Old Book Nobody Can Read 📜",
+    "description": "Unknown script, impossible plants, star charts, and codebreakers who all failed. The Voynich manuscript is still unsolved.",
+    "hashtags": [
+      "shorts",
+      "mystery",
+      "voynichmanuscript",
+      "unsolved",
+      "history"
+    ],
+    "pinned_comment": "Language, code, or hoax? Pick one 👇"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "033-flannan-isles",
+  "title": "Three lighthouse keepers vanished",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In December 1900, three lighthouse keepers vanished from a tiny Scottish island.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "lighthouse"
+        ],
+        "label": "Flannan Isles, 1900"
+      },
+      "emphasis": [
+        "vanished"
+      ]
+    },
+    {
+      "text": "The Flannan Isles lighthouse sits off the west coast of Scotland, in the Outer Hebrides.",
+      "visual": {
+        "type": "pin",
+        "place": "Flannan Isles, Scotland",
+        "detail": "Outer Hebrides",
+        "dx": -70
+      },
+      "emphasis": [
+        "Scotland,"
+      ]
+    },
+    {
+      "text": "When the relief ship arrived on December 26th, nobody came to meet it.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "15 DEC",
+            "label": "last on duty"
+          },
+          {
+            "year": "26 DEC",
+            "label": "relief ship arrives"
+          }
+        ]
+      },
+      "emphasis": [
+        "nobody"
+      ]
+    },
+    {
+      "text": "The gate and door were shut. The beds were unmade. The clocks had stopped.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "clocks",
+          "stopped"
+        ]
+      },
+      "emphasis": [
+        "stopped."
+      ]
+    },
+    {
+      "text": "The lamps were cleaned and ready. And one man's coat was still on its peg.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "lighthouse"
+        ],
+        "label": "lamps ready, coat left behind"
+      },
+      "emphasis": [
+        "coat"
+      ]
+    },
+    {
+      "text": "James Ducat, Thomas Marshall and Donald McArthur were never found.",
+      "visual": {
+        "type": "people",
+        "total": 3,
+        "highlight": 3,
+        "label": "never found"
+      },
+      "emphasis": [
+        "never",
+        "found."
+      ]
+    },
+    {
+      "text": "Creepy log entries about storms and prayers went viral later. Researchers found they were invented.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "fake",
+          "logbook"
+        ]
+      },
+      "emphasis": [
+        "invented."
+      ]
+    },
+    {
+      "text": "The investigator at the time believed a giant wave swept them off the rocks.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "water"
+        ],
+        "label": "a freak wave?"
+      },
+      "emphasis": [
+        "wave"
+      ]
+    },
+    {
+      "text": "But why would all three leave the lighthouse at once?",
+      "visual": {
+        "type": "question",
+        "label": "why all three?"
+      },
+      "emphasis": [
+        "three"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Last believed on duty around 15 December 1900; relief ship Hesperus arrived 26 December; door shut, beds unmade, clocks stopped, lamps ready, McArthur's coat on its peg",
+      "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse"
+    },
+    {
+      "claim": "Keepers James Ducat, Thomas Marshall, Donald McArthur never found; dramatic logbook entries were later fictions (Mike Dash); Robert Muirhead concluded a large wave swept them away",
+      "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse"
+    }
+  ],
+  "publish": {
+    "title": "Three Lighthouse Keepers Vanished Without a Trace 🌊",
+    "description": "Flannan Isles, 1900. Stopped clocks, an unmade bed, a coat on its peg, and three men who were never seen again.",
+    "hashtags": [
+      "shorts",
+      "mystery",
+      "flannanisles",
+      "unsolved",
+      "scotland"
+    ],
+    "pinned_comment": "Freak wave or something stranger? 👇"
+  }
+}

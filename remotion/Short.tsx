@@ -5,6 +5,7 @@ import React from 'react';
 import {
   AbsoluteFill,
   Audio,
+  Img,
   Sequence,
   interpolate,
   spring,
@@ -13,22 +14,26 @@ import {
   useVideoConfig,
 } from 'remotion';
 import {Captions} from './Captions';
+import {Backdrop} from './Backdrop';
+import {LibraryScene} from './library';
 import {Scene} from './scenes';
 import {Line, ShortProps, theme} from './types';
 
-type Segment = {visual: string; from: number; to: number; lines: Line[]};
+type Segment = {visual: Line['visual']; from: number; to: number; lines: Line[]};
 
-// Consecutive lines that share a base visual ("test", "test-vanish") are one scene.
-const baseVisual = (v: string) => v.split('-')[0];
+// Consecutive lines that share a base visual ("test", "test-vanish") are one scene,
+// and a line whose visual is "same" continues the scene before it.
+const visualKey = (v: Line['visual']) => (typeof v === 'string' ? v.split('-')[0] : JSON.stringify(v));
 
 const toSegments = (lines: Line[], fps: number, total: number): Segment[] => {
   const segs: Segment[] = [];
   for (const line of lines) {
     const last = segs.at(-1);
-    if (last && baseVisual(last.visual) === baseVisual(line.visual)) {
+    if (last && (line.visual === 'same' || visualKey(last.visual) === visualKey(line.visual))) {
       last.lines.push(line);
     } else {
-      segs.push({visual: baseVisual(line.visual), from: Math.round(line.start * fps), to: total, lines: [line]});
+      const visual = typeof line.visual === 'string' ? visualKey(line.visual) : line.visual;
+      segs.push({visual, from: Math.round(line.start * fps), to: total, lines: [line]});
     }
   }
   segs.forEach((s, i) => {
@@ -40,14 +45,12 @@ const toSegments = (lines: Line[], fps: number, total: number): Segment[] => {
 
 const Grain: React.FC = () => {
   const frame = useCurrentFrame();
+  // Jump the texture to a new offset every frame so the grain flickers like film.
+  const x = ((frame * 137) % 200) - 200;
+  const y = ((frame * 89) % 240) - 240;
   return (
-    <AbsoluteFill style={{opacity: 0.09, mixBlendMode: 'screen', pointerEvents: 'none'}}>
-      <svg width="1080" height="1920">
-        <filter id="grain">
-          <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves={2} seed={frame % 12} />
-        </filter>
-        <rect width="1080" height="1920" filter="url(#grain)" />
-      </svg>
+    <AbsoluteFill style={{opacity: 0.07, mixBlendMode: 'screen', pointerEvents: 'none', overflow: 'hidden'}}>
+      <Img src={staticFile('_shared/grain.png')} style={{position: 'absolute', left: x, top: y, width: 1360, height: 2400, imageRendering: 'pixelated'}} />
     </AbsoluteFill>
   );
 };
@@ -110,10 +113,15 @@ export const Short: React.FC<ShortProps> = ({id, timeline}) => {
 
   return (
     <AbsoluteFill style={{background: t.bg}}>
+      <Backdrop id={id} accent={t.accent} />
       {segments.map((s, i) => (
         <Sequence key={i} from={s.from} durationInFrames={s.to - s.from}>
           <Cut>
-            <Scene visual={s.visual} lines={s.lines} offset={s.from / fps} accent={t.accent} glow={t.glow} />
+            {typeof s.visual === 'string' ? (
+              <Scene visual={s.visual} lines={s.lines} offset={s.from / fps} accent={t.accent} glow={t.glow} />
+            ) : (
+              <LibraryScene v={s.visual} accent={t.accent} glow={t.glow} dur={(s.to - s.from) / fps} />
+            )}
           </Cut>
         </Sequence>
       ))}

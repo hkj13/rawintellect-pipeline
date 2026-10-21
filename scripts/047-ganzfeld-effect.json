@@ -1,0 +1,127 @@
+{
+  "id": "047-ganzfeld-effect",
+  "title": "Your brain makes things up in the dark",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Stare at nothing long enough, and your brain will start inventing things to see.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "seeing",
+          "things"
+        ]
+      },
+      "emphasis": [
+        "inventing"
+      ]
+    },
+    {
+      "text": "It's called the Ganzfeld effect. Ganzfeld is German for complete field.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "ganzfeld"
+        ]
+      },
+      "emphasis": [
+        "Ganzfeld"
+      ]
+    },
+    {
+      "text": "When your eyes get a perfectly uniform view, like a blank wall of light or a whiteout, there's nothing to process.",
+      "visual": {
+        "type": "split",
+        "left": "blank field",
+        "right": "no signal",
+        "leftIcon": "eye",
+        "rightIcon": "brain"
+      },
+      "emphasis": [
+        "nothing"
+      ]
+    },
+    {
+      "text": "So your brain turns up the gain, and starts amplifying its own noise.",
+      "visual": {
+        "type": "wave",
+        "spike": false,
+        "label": "amplifying noise"
+      },
+      "emphasis": [
+        "noise."
+      ]
+    },
+    {
+      "text": "People report patterns, colours, and even full images.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "star",
+          "eye"
+        ],
+        "label": "patterns, colours, images"
+      },
+      "emphasis": [
+        "images."
+      ]
+    },
+    {
+      "text": "In the 1930s, psychologist Wolfgang Metzger found people staring into a featureless field consistently hallucinated.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1930s",
+            "label": "Metzger's experiments"
+          }
+        ]
+      },
+      "emphasis": [
+        "hallucinated."
+      ]
+    },
+    {
+      "text": "Trapped miners and Arctic explorers have described the same thing.",
+      "visual": {
+        "type": "split",
+        "left": "trapped miners",
+        "right": "arctic explorers"
+      },
+      "emphasis": [
+        "miners"
+      ]
+    },
+    {
+      "text": "Your brain would rather make something up than see nothing at all.",
+      "visual": {
+        "type": "question",
+        "label": "what would you see?"
+      },
+      "emphasis": [
+        "nothing"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Ganzfeld effect: uniform visual field leads the brain to amplify neural noise, causing hallucinations; Metzger (1930s); reported by trapped miners and Arctic explorers",
+      "url": "https://en.wikipedia.org/wiki/Ganzfeld_effect"
+    }
+  ],
+  "publish": {
+    "title": "Your Brain Makes Things Up When There's Nothing to See 👁️",
+    "description": "The Ganzfeld effect: give your eyes a blank field and your brain starts hallucinating.",
+    "hashtags": [
+      "shorts",
+      "brain",
+      "hallucination",
+      "ganzfeld",
+      "science"
+    ],
+    "pinned_comment": "Would you try a Ganzfeld experiment? 👇"
+  }
+}

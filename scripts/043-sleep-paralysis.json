@@ -1,0 +1,144 @@
+{
+  "id": "043-sleep-paralysis",
+  "title": "Awake, unable to move, not alone",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You wake up. You can't move. And you feel like someone is in the room.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "bed"
+        ],
+        "label": "sleep paralysis"
+      },
+      "emphasis": [
+        "can't",
+        "move."
+      ]
+    },
+    {
+      "text": "This is sleep paralysis. Somewhere between 8 and 50 percent of people have it at least once.",
+      "visual": {
+        "type": "compare",
+        "unit": "%",
+        "left": {
+          "label": "low estimate",
+          "value": 8
+        },
+        "right": {
+          "label": "high estimate",
+          "value": 50
+        }
+      },
+      "emphasis": [
+        "8",
+        "50"
+      ]
+    },
+    {
+      "text": "During dream sleep, your brain paralyses your body so you don't act out your dreams.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "REM sleep paralysis"
+      },
+      "emphasis": [
+        "paralyses"
+      ]
+    },
+    {
+      "text": "Sometimes, you wake up before that switch turns off.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "awake",
+          "but",
+          "frozen"
+        ]
+      },
+      "emphasis": [
+        "before"
+      ]
+    },
+    {
+      "text": "Your mind is awake, but your body is still locked.",
+      "visual": "same",
+      "emphasis": [
+        "locked."
+      ]
+    },
+    {
+      "text": "And dream imagery can leak into waking. Pressure on the chest, voices, a dark figure.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "mask"
+        ],
+        "label": "chest pressure, a figure"
+      },
+      "emphasis": [
+        "dark",
+        "figure."
+      ]
+    },
+    {
+      "text": "Cultures everywhere have named it. The Old Hag in Newfoundland. Kanashibari in Japan.",
+      "visual": {
+        "type": "split",
+        "left": "the old hag",
+        "right": "kanashibari"
+      },
+      "emphasis": [
+        "Old",
+        "Hag",
+        "Kanashibari"
+      ]
+    },
+    {
+      "text": "Episodes usually last a few minutes, and it's physically harmless.",
+      "visual": {
+        "type": "number",
+        "value": 6,
+        "label": "minutes, typically",
+        "prefix": "1–"
+      },
+      "emphasis": [
+        "harmless."
+      ]
+    },
+    {
+      "text": "Stress, sleep loss, and sleeping on your back can make it more likely.",
+      "visual": {
+        "type": "question",
+        "label": "has this happened to you?"
+      },
+      "emphasis": [
+        "back"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Sleep paralysis affects 8% to 50% at least once; linked to REM characteristics persisting into waking; hallucinations include chest pressure and a dark figure; called Old Hag (Newfoundland), kanashibari (Japan); 1–6 minutes; physically harmless; triggers include stress, sleep deprivation, sleeping on the back",
+      "url": "https://en.wikipedia.org/wiki/Sleep_paralysis"
+    }
+  ],
+  "publish": {
+    "title": "Awake, Frozen, and Not Alone 😨 (Sleep Paralysis)",
+    "description": "Why you can wake up unable to move, sometimes sensing a figure in the room. The science of sleep paralysis.",
+    "hashtags": [
+      "shorts",
+      "sleepparalysis",
+      "sleep",
+      "brain",
+      "scary"
+    ],
+    "pinned_comment": "Have you ever had sleep paralysis? What did you see? 👇"
+  }
+}

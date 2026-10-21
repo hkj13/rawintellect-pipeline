@@ -1,0 +1,153 @@
+{
+  "id": "042-patient-hm",
+  "title": "The man who lived in the present",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "For 55 years, one man lived almost entirely in the present moment. He could not form new memories.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "patient H.M."
+      },
+      "emphasis": [
+        "present"
+      ]
+    },
+    {
+      "text": "His name was Henry Molaison. Scientists knew him only as H.M.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "patient",
+          "H.M."
+        ]
+      },
+      "emphasis": [
+        "H.M."
+      ]
+    },
+    {
+      "text": "In 1953, a surgeon removed parts of both sides of his brain to stop his severe epilepsy.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1953",
+            "label": "the surgery"
+          },
+          {
+            "year": "2008",
+            "label": "dies, aged 82"
+          }
+        ]
+      },
+      "emphasis": [
+        "1953,"
+      ]
+    },
+    {
+      "text": "Including most of a structure called the hippocampus.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "hippocampus removed"
+      },
+      "emphasis": [
+        "hippocampus."
+      ]
+    },
+    {
+      "text": "The seizures improved. But his memory span shrank to about 30 seconds.",
+      "visual": {
+        "type": "number",
+        "value": 30,
+        "label": "seconds of new memory",
+        "suffix": "s"
+      },
+      "emphasis": [
+        "30",
+        "seconds."
+      ]
+    },
+    {
+      "text": "He could meet a researcher, and minutes later greet her as a stranger.",
+      "visual": {
+        "type": "split",
+        "left": "met today",
+        "right": "a stranger again",
+        "leftIcon": "person",
+        "rightIcon": "person"
+      },
+      "emphasis": [
+        "stranger."
+      ]
+    },
+    {
+      "text": "Yet he got better at a tricky drawing task with practice, without remembering ever doing it.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "skills",
+          "without",
+          "memory"
+        ]
+      },
+      "emphasis": [
+        "without"
+      ]
+    },
+    {
+      "text": "That proved there's more than one kind of memory in the brain.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain",
+          "gear"
+        ],
+        "label": "more than one memory system"
+      },
+      "emphasis": [
+        "one",
+        "kind"
+      ]
+    },
+    {
+      "text": "After he died in 2008, his brain was cut into 2,401 slices, so science could keep learning from him.",
+      "visual": {
+        "type": "number",
+        "value": 2401,
+        "label": "brain slices",
+        "plain": true
+      },
+      "emphasis": [
+        "2,401"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Henry Molaison (H.M.): 1953 bilateral medial temporal lobectomy for epilepsy, removing much of both hippocampi; severe anterograde amnesia with ~30 s memory span; improved at mirror drawing (Brenda Milner); died 2008 aged 82; brain cut into 2,401 slices in 2009",
+      "url": "https://en.wikipedia.org/wiki/Henry_Molaison"
+    }
+  ],
+  "publish": {
+    "title": "The Man Who Couldn't Make New Memories 🧠",
+    "description": "After surgery in 1953, Henry Molaison lived with a 30-second memory for 55 years. He changed what we know about the brain.",
+    "hashtags": [
+      "shorts",
+      "neuroscience",
+      "memory",
+      "patienthm",
+      "history"
+    ],
+    "pinned_comment": "Could you live with a 30-second memory? 👇"
+  }
+}

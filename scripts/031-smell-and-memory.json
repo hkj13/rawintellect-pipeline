@@ -1,0 +1,130 @@
+{
+  "id": "031-smell-and-memory",
+  "title": "Why a smell drags you back in time",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "One smell, and suddenly you're ten years old again.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "nose"
+        ],
+        "label": "one smell"
+      },
+      "emphasis": [
+        "ten"
+      ]
+    },
+    {
+      "text": "Smells trigger memories in a way your other senses rarely do. There's a reason.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "smell",
+          "=",
+          "memory"
+        ]
+      },
+      "emphasis": [
+        "reason."
+      ]
+    },
+    {
+      "text": "Smell signals go from your nose to the olfactory bulb, at the front of your brain.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "nose",
+          "brain"
+        ],
+        "label": "nose to olfactory bulb"
+      },
+      "emphasis": [
+        "olfactory"
+      ]
+    },
+    {
+      "text": "From there, they take a short route to the amygdala and hippocampus.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "amygdala and hippocampus"
+      },
+      "emphasis": [
+        "short",
+        "route"
+      ]
+    },
+    {
+      "text": "Those are the areas that handle emotion, and memory.",
+      "visual": {
+        "type": "split",
+        "left": "emotion",
+        "right": "memory"
+      },
+      "emphasis": [
+        "emotion,",
+        "memory."
+      ]
+    },
+    {
+      "text": "As one Harvard neuroscientist put it, smell signals very quickly get to the limbic system.",
+      "visual": {
+        "type": "quote",
+        "text": "very quickly get to the limbic system",
+        "by": "Venkatesh Murthy, Harvard"
+      },
+      "emphasis": [
+        "quickly"
+      ]
+    },
+    {
+      "text": "That's why a perfume, a bakery, or rain can bring back a feeling before you even know why.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "water",
+          "star"
+        ],
+        "label": "rain, perfume, bread"
+      },
+      "emphasis": [
+        "feeling"
+      ]
+    },
+    {
+      "text": "What's the smell that takes you straight back?",
+      "visual": {
+        "type": "question",
+        "label": "which smell is yours?"
+      },
+      "emphasis": [
+        "smell"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Smell signals pass from the olfactory bulb quickly to the amygdala and hippocampus (Venkatesh Murthy, Harvard Gazette, 2020)",
+      "url": "https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/"
+    }
+  ],
+  "publish": {
+    "title": "Why One Smell Can Take You Back Years 👃",
+    "description": "Smell has a shortcut to the parts of your brain that handle emotion and memory. That's why it hits so hard.",
+    "hashtags": [
+      "shorts",
+      "brain",
+      "memory",
+      "smell",
+      "nostalgia"
+    ],
+    "pinned_comment": "Which smell takes you straight back to childhood? 👇"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "011-pratfall-effect",
+  "title": "Spilling coffee can make you more likeable",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Making a mistake can make people like you more. But there's a catch.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "mistakes",
+          "can make you",
+          "likeable"
+        ]
+      },
+      "emphasis": [
+        "catch."
+      ]
+    },
+    {
+      "text": "In 1966, psychologist Elliot Aronson played students recordings of quiz contestants.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "Elliot Aronson, 1966"
+      },
+      "emphasis": [
+        "1966,"
+      ]
+    },
+    {
+      "text": "One was brilliant, answering about 92 percent of the questions correctly.",
+      "visual": {
+        "type": "number",
+        "value": 92,
+        "label": "answers correct",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "brilliant,"
+      ]
+    },
+    {
+      "text": "Another was average, getting about 30 percent.",
+      "visual": {
+        "type": "number",
+        "value": 30,
+        "label": "answers correct",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "average,"
+      ]
+    },
+    {
+      "text": "On some tapes, the contestant then clumsily spilled coffee all over himself.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "coffee"
+        ],
+        "label": "the spill"
+      },
+      "emphasis": [
+        "spilled",
+        "coffee"
+      ]
+    },
+    {
+      "text": "After the spill, the brilliant contestant was rated more attractive.",
+      "visual": {
+        "type": "split",
+        "left": "brilliant + spill",
+        "right": "more liked",
+        "leftIcon": "coffee",
+        "rightIcon": "star"
+      },
+      "emphasis": [
+        "more"
+      ]
+    },
+    {
+      "text": "The average contestant who spilled? Rated less attractive.",
+      "visual": {
+        "type": "split",
+        "left": "average + spill",
+        "right": "less liked",
+        "leftIcon": "coffee",
+        "rightIcon": "person"
+      },
+      "emphasis": [
+        "less"
+      ]
+    },
+    {
+      "text": "It's called the pratfall effect. A small slip makes an impressive person seem human.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "pratfall",
+          "effect"
+        ]
+      },
+      "emphasis": [
+        "human."
+      ]
+    },
+    {
+      "text": "So if you're good at what you do, stop fearing the occasional mistake.",
+      "visual": {
+        "type": "question",
+        "label": "perfect or human?"
+      },
+      "emphasis": [
+        "mistake."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Aronson (1966): a highly competent contestant (~92% correct) who spilled coffee was rated more attractive; an average one (~30%) was rated less attractive",
+      "url": "https://en.wikipedia.org/wiki/Pratfall_effect"
+    }
+  ],
+  "publish": {
+    "title": "Why Spilling Coffee Can Make People Like You More ☕",
+    "description": "A 1966 experiment found a small blunder made impressive people more likeable. But only if you're already good. The pratfall effect.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "pratfalleffect",
+      "likeability",
+      "mindset"
+    ],
+    "pinned_comment": "Do you like people more when they're a little imperfect? 👇"
+  }
+}

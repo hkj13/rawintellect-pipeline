@@ -1,0 +1,137 @@
+{
+  "id": "007-second-brain-gut",
+  "title": "You have a second brain in your gut",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "You have a second brain, and it's in your gut.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain",
+          "gut"
+        ]
+      },
+      "emphasis": [
+        "second",
+        "brain,"
+      ]
+    },
+    {
+      "text": "It's called the enteric nervous system, a web of nerves lining your digestive tract.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "gut"
+        ],
+        "label": "enteric nervous system"
+      },
+      "emphasis": [
+        "enteric"
+      ]
+    },
+    {
+      "text": "It contains around 500 million neurons.",
+      "visual": {
+        "type": "number",
+        "value": 500000000,
+        "label": "neurons in your gut"
+      },
+      "emphasis": [
+        "500",
+        "million"
+      ]
+    },
+    {
+      "text": "And it can run your digestion on its own, even when its main nerve link to the brain is cut.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "works",
+          "on its",
+          "own"
+        ]
+      },
+      "emphasis": [
+        "own,"
+      ]
+    },
+    {
+      "text": "More than 90% of your body's serotonin is found in your gut.",
+      "visual": {
+        "type": "number",
+        "value": 90,
+        "label": "of your serotonin is in the gut",
+        "suffix": "%",
+        "prefix": ">"
+      },
+      "emphasis": [
+        "90%"
+      ]
+    },
+    {
+      "text": "In the brain, serotonin helps regulate mood. In the gut, it helps keep things moving.",
+      "visual": {
+        "type": "split",
+        "left": "brain: mood",
+        "right": "gut: movement",
+        "leftIcon": "brain",
+        "rightIcon": "gut"
+      },
+      "emphasis": [
+        "mood.",
+        "moving."
+      ]
+    },
+    {
+      "text": "Scientists are still mapping how these two brains talk to each other.",
+      "visual": {
+        "type": "wave",
+        "spike": false,
+        "label": "gut to brain"
+      },
+      "emphasis": [
+        "talk"
+      ]
+    },
+    {
+      "text": "So next time you get a gut feeling, it might not just be a figure of speech.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "gut",
+          "feeling"
+        ]
+      },
+      "emphasis": [
+        "gut",
+        "feeling,"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Enteric nervous system has about 500 million neurons, is called the second brain, and can operate independently even when the vagus nerve is severed",
+      "url": "https://en.wikipedia.org/wiki/Enteric_nervous_system"
+    },
+    {
+      "claim": "More than 90% of the body's serotonin is in the gut",
+      "url": "https://en.wikipedia.org/wiki/Enteric_nervous_system"
+    }
+  ],
+  "publish": {
+    "title": "You Have a Second Brain in Your Gut 🧠",
+    "description": "500 million neurons, more than 90% of your serotonin, and it can work without your brain. Meet the enteric nervous system.",
+    "hashtags": [
+      "shorts",
+      "humanbody",
+      "gutbrain",
+      "sciencefacts",
+      "didyouknow"
+    ],
+    "pinned_comment": "Do you trust your gut feelings? 👇"
+  }
+}

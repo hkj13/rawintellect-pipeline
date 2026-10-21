@@ -1,0 +1,158 @@
+{
+  "id": "027-phineas-gage",
+  "title": "An iron rod through the skull changed a man",
+  "format": "short",
+  "theme": "mystery",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "In 1848, an iron rod shot straight through a man's skull. He survived, but his friends said he was no longer the same man.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "skull"
+        ],
+        "label": "Phineas Gage, 1848"
+      },
+      "emphasis": [
+        "survived,"
+      ]
+    },
+    {
+      "text": "Phineas Gage was blasting rock for a railroad in Vermont.",
+      "visual": {
+        "type": "pin",
+        "place": "Cavendish, Vermont",
+        "detail": "13 September 1848",
+        "dx": -30
+      },
+      "emphasis": [
+        "Vermont."
+      ]
+    },
+    {
+      "text": "An explosion fired his tamping iron, over a metre long and six kilos, up through his head.",
+      "visual": {
+        "type": "compare",
+        "title": "the tamping iron",
+        "unit": "",
+        "left": {
+          "label": "length",
+          "value": 110,
+          "display": "1.1 M"
+        },
+        "right": {
+          "label": "weight",
+          "value": 60,
+          "display": "6 KG"
+        }
+      },
+      "emphasis": [
+        "metre",
+        "kilos,"
+      ]
+    },
+    {
+      "text": "It entered under his left cheek, passed behind his eye, and exited through the top of his skull.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "skull"
+        ],
+        "label": "through the left frontal lobe"
+      },
+      "emphasis": [
+        "exited"
+      ]
+    },
+    {
+      "text": "Within minutes, he was talking. He walked with little help.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "he",
+          "survived"
+        ]
+      },
+      "emphasis": [
+        "talking."
+      ]
+    },
+    {
+      "text": "But his doctor later wrote that his friends said he was, no longer Gage.",
+      "visual": {
+        "type": "quote",
+        "text": "No longer Gage",
+        "by": "Dr John Harlow, 1868"
+      },
+      "emphasis": [
+        "no",
+        "longer",
+        "Gage."
+      ]
+    },
+    {
+      "text": "Historians now think some of those changes were exaggerated, and some may have faded.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "book"
+        ],
+        "label": "exaggerated over time"
+      },
+      "emphasis": [
+        "exaggerated,"
+      ]
+    },
+    {
+      "text": "He later worked as a stagecoach driver in Chile.",
+      "visual": {
+        "type": "pin",
+        "place": "Chile",
+        "detail": "stagecoach driver",
+        "dx": -20
+      },
+      "emphasis": [
+        "Chile."
+      ]
+    },
+    {
+      "text": "Gage became one of the first clues that the brain shapes who we are.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "the brain shapes personality"
+      },
+      "emphasis": [
+        "who",
+        "we",
+        "are."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "13 September 1848 near Cavendish, Vermont; tamping iron 1.1 m long, 6 kg; entered left cheek, behind left eye, exited top of skull; conscious and speaking within minutes",
+      "url": "https://en.wikipedia.org/wiki/Phineas_Gage"
+    },
+    {
+      "claim": "Dr Harlow reported in 1868 that friends said he was 'no longer Gage'; later accounts exaggerated the change; he worked as a stagecoach driver in Chile",
+      "url": "https://en.wikipedia.org/wiki/Phineas_Gage"
+    }
+  ],
+  "publish": {
+    "title": "An Iron Rod Went Through His Skull. He Survived. 🧠",
+    "description": "Phineas Gage, 1848. A 6 kg iron rod through the brain, and a personality that seemed to change. A founding case of neuroscience.",
+    "hashtags": [
+      "shorts",
+      "history",
+      "neuroscience",
+      "phineasgage",
+      "brain"
+    ],
+    "pinned_comment": "Do you think your personality lives in your brain? 👇"
+  }
+}

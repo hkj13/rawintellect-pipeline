@@ -1,0 +1,126 @@
+{
+  "id": "034-troxler-fading",
+  "title": "Stare and watch colours disappear",
+  "format": "short",
+  "theme": "body",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Stare at the cross in the middle. Don't move your eyes.",
+      "visual": {
+        "type": "troxler"
+      },
+      "emphasis": [
+        "Stare",
+        "cross"
+      ],
+      "pause": 4.5
+    },
+    {
+      "text": "Keep staring. The colours around it start to fade.",
+      "visual": "same",
+      "emphasis": [
+        "fade."
+      ],
+      "pause": 3.0
+    },
+    {
+      "text": "Some might vanish completely, leaving just grey.",
+      "visual": "same",
+      "emphasis": [
+        "vanish"
+      ],
+      "pause": 1.5
+    },
+    {
+      "text": "This is called Troxler fading. It was first described by a Swiss doctor in 1804.",
+      "visual": {
+        "type": "timeline",
+        "points": [
+          {
+            "year": "1804",
+            "label": "Troxler describes it"
+          },
+          {
+            "year": "TODAY",
+            "label": "you just saw it"
+          }
+        ]
+      },
+      "emphasis": [
+        "Troxler"
+      ]
+    },
+    {
+      "text": "Your neurons stop responding to things that don't change.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "neural adaptation"
+      },
+      "emphasis": [
+        "don't",
+        "change."
+      ]
+    },
+    {
+      "text": "If something in your side vision stays perfectly still and blurry, your brain decides it's not worth reporting.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "eye"
+        ],
+        "label": "unchanging = ignored"
+      },
+      "emphasis": [
+        "not",
+        "worth"
+      ]
+    },
+    {
+      "text": "Move your eyes even a little, and it all comes back.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "blink",
+          "and it's",
+          "back"
+        ]
+      },
+      "emphasis": [
+        "back."
+      ]
+    },
+    {
+      "text": "Your brain is constantly deleting things it thinks you don't need to see.",
+      "visual": {
+        "type": "question",
+        "label": "what else is it hiding?"
+      },
+      "emphasis": [
+        "deleting"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Troxler's fading: described by Ignaz Troxler in 1804; a steady, blurred peripheral stimulus fades during fixation due to neural adaptation",
+      "url": "https://en.wikipedia.org/wiki/Troxler%27s_fading"
+    }
+  ],
+  "publish": {
+    "title": "Stare at the Cross and Watch the Colours Vanish 👁️",
+    "description": "Try Troxler fading: your brain deletes things that don't change. Did the colours disappear for you?",
+    "hashtags": [
+      "shorts",
+      "illusion",
+      "brain",
+      "opticalillusion",
+      "trythis"
+    ],
+    "pinned_comment": "How long did it take for the colours to vanish? ⏱️👇"
+  }
+}

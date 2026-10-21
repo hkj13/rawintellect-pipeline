@@ -1,0 +1,141 @@
+{
+  "id": "005-doorway-effect",
+  "title": "Why you forget what you came in for",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "Ever walk into a room and instantly forget why you went in?",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "door"
+        ]
+      },
+      "emphasis": [
+        "forget"
+      ]
+    },
+    {
+      "text": "It's not your memory failing. It might be the door.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "blame",
+          "the door"
+        ]
+      },
+      "emphasis": [
+        "door."
+      ]
+    },
+    {
+      "text": "Psychologist Gabriel Radvansky at the University of Notre Dame tested this.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person",
+          "door"
+        ],
+        "label": "Notre Dame, 2011"
+      },
+      "emphasis": [
+        "Notre",
+        "Dame"
+      ]
+    },
+    {
+      "text": "People carried objects from room to room in a virtual building, and their memory was tested along the way.",
+      "visual": "same",
+      "emphasis": [
+        "memory"
+      ]
+    },
+    {
+      "text": "Walking through a doorway made them forget more than walking the same distance inside one room.",
+      "visual": {
+        "type": "split",
+        "left": "same room",
+        "right": "through a door",
+        "leftIcon": "person",
+        "rightIcon": "door"
+      },
+      "emphasis": [
+        "doorway",
+        "more"
+      ]
+    },
+    {
+      "text": "Your brain seems to treat a doorway as an event boundary, like the end of a chapter.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "event",
+          "boundary"
+        ]
+      },
+      "emphasis": [
+        "event",
+        "boundary,"
+      ]
+    },
+    {
+      "text": "It files the last scene away, to make room for the new one.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ],
+        "label": "scene filed away"
+      },
+      "emphasis": [
+        "files"
+      ]
+    },
+    {
+      "text": "And going back into the first room didn't bring the memory back.",
+      "visual": {
+        "type": "question",
+        "label": "still forgotten"
+      },
+      "emphasis": [
+        "didn't"
+      ]
+    },
+    {
+      "text": "So next time you forget why you walked in, don't blame yourself. Blame the door.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "blame",
+          "the",
+          "door"
+        ],
+        "highlight": 2
+      },
+      "emphasis": [
+        "door."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Gabriel Radvansky (Notre Dame) found walking through doorways causes more forgetting than the same distance in one room; returning to the original room didn't help (Quarterly Journal of Experimental Psychology, 2011)",
+      "url": "https://provost.nd.edu/news/walking-through-doorways-causes-forgetting-new-research-shows"
+    }
+  ],
+  "publish": {
+    "title": "Why You Forget What You Walked In For 🚪",
+    "description": "It's not just you. Research shows walking through a doorway makes your brain file memories away. It's called the doorway effect.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "memory",
+      "brainfacts",
+      "doorwayeffect"
+    ],
+    "pinned_comment": "What's the last thing you forgot the second you walked into a room? 👇"
+  }
+}

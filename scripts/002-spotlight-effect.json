@@ -1,0 +1,145 @@
+{
+  "id": "002-spotlight-effect",
+  "title": "Nobody noticed your embarrassing moment",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    {
+      "text": "That embarrassing moment you still replay at night? Most people never even noticed it.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "nobody",
+          "noticed"
+        ]
+      },
+      "emphasis": [
+        "noticed"
+      ]
+    },
+    {
+      "text": "Psychologists at Cornell tested this.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "person"
+        ],
+        "label": "Gilovich et al., 2000"
+      },
+      "emphasis": [
+        "Cornell"
+      ]
+    },
+    {
+      "text": "They had students walk into a room wearing a cringey Barry Manilow T-shirt.",
+      "visual": "same",
+      "emphasis": [
+        "Barry",
+        "Manilow"
+      ]
+    },
+    {
+      "text": "The students guessed that about half the room would notice.",
+      "visual": {
+        "type": "number",
+        "value": 50,
+        "label": "they guessed",
+        "suffix": "%"
+      },
+      "emphasis": [
+        "half"
+      ]
+    },
+    {
+      "text": "The real number? Only about one in four.",
+      "visual": {
+        "type": "compare",
+        "title": "guess vs reality",
+        "unit": "%",
+        "left": {
+          "label": "guessed",
+          "value": 50
+        },
+        "right": {
+          "label": "actually noticed",
+          "value": 25
+        }
+      },
+      "emphasis": [
+        "four."
+      ]
+    },
+    {
+      "text": "It's called the spotlight effect.",
+      "visual": {
+        "type": "words",
+        "words": [
+          "spotlight",
+          "effect"
+        ]
+      },
+      "emphasis": [
+        "spotlight"
+      ]
+    },
+    {
+      "text": "You live inside your own head all day, so every slip feels enormous.",
+      "visual": {
+        "type": "icon",
+        "names": [
+          "brain"
+        ]
+      },
+      "emphasis": [
+        "enormous."
+      ]
+    },
+    {
+      "text": "But everyone else is busy worrying about their own spotlight.",
+      "visual": {
+        "type": "people",
+        "total": 20,
+        "highlight": 5,
+        "label": "actually watching you"
+      },
+      "emphasis": [
+        "their",
+        "own"
+      ]
+    },
+    {
+      "text": "So that thing you're still embarrassed about? They've almost certainly forgotten it.",
+      "visual": {
+        "type": "question",
+        "label": "who's really watching?"
+      },
+      "emphasis": [
+        "forgotten"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Students in an embarrassing Barry Manilow shirt guessed about 50% would notice; about 25% did (Gilovich, Medvec & Savitsky, 2000)",
+      "url": "https://www.psychologytoday.com/ie/blog/are-we-born-racist/201206/the-spotlight-effect"
+    },
+    {
+      "claim": "Spotlight effect: people overestimate how much others notice them",
+      "url": "https://en.wikipedia.org/wiki/Spotlight_effect"
+    }
+  ],
+  "publish": {
+    "title": "Nobody Noticed Your Embarrassing Moment 🔦 (Science Proves It)",
+    "description": "You think everyone saw it. Psychologists tested that, and the numbers say otherwise. This is the spotlight effect.",
+    "hashtags": [
+      "shorts",
+      "psychology",
+      "spotlighteffect",
+      "socialanxiety",
+      "mindset"
+    ],
+    "pinned_comment": "What's the embarrassing moment you still replay? 👇 (Statistically, nobody remembers it.)"
+  }
+}
