@@ -1,0 +1,28 @@
+{
+  "id": "001-blind-spot",
+  "title": "Your brain is hiding a hole in your vision",
+  "format": "short",
+  "theme": "psychology",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lines": [
+    { "text": "Right now, there's a hole in your vision.", "visual": "hook", "emphasis": ["hole"] },
+    { "text": "And your brain is hiding it from you.", "visual": "hook", "emphasis": ["hiding"] },
+    { "text": "Every eye has a blind spot, where the optic nerve leaves the back of the eye.", "visual": "retina", "emphasis": ["blind", "spot"] },
+    { "text": "There are no light sensors there. At all.", "visual": "retina", "emphasis": ["no"] },
+    { "text": "And it's not tiny. It's wide enough to swallow eleven full moons, side by side.", "visual": "moons", "emphasis": ["eleven"] },
+    { "text": "So why don't you see a black hole?", "visual": "fill", "emphasis": ["black", "hole?"] },
+    { "text": "Your brain paints over it, using whatever is around it.", "visual": "fill", "emphasis": ["paints"] },
+    { "text": "Try it. Close your left eye, and stare at the cross.", "visual": "test", "emphasis": ["left", "cross."] },
+    { "text": "Now slowly bring your phone closer.", "visual": "test", "emphasis": ["closer."], "pause": 1.6 },
+    { "text": "At one distance, the dot simply vanishes.", "visual": "test-vanish", "emphasis": ["vanishes."] },
+    { "text": "Octopuses don't have this flaw. Their eyes are wired the other way round.", "visual": "octopus", "emphasis": ["Octopuses"] },
+    { "text": "Which makes you wonder what else your brain is hiding, right now.", "visual": "outro", "emphasis": ["hiding,"] }
+  ],
+  "sources": [
+    { "claim": "Blind spot is where the optic nerve leaves the eye, with no photoreceptors", "url": "https://en.wikipedia.org/wiki/Blind_spot_(vision)" },
+    { "claim": "Blind spot is about 7.5 degrees high and 5.5 degrees wide; full moon is about 0.5 degrees wide, so about 11 moons across", "url": "https://en.wikipedia.org/wiki/Blind_spot_(vision)" },
+    { "claim": "The brain fills in the missing area (perceptual filling-in)", "url": "https://en.wikipedia.org/wiki/Filling-in" },
+    { "claim": "Cephalopod eyes have nerve fibres behind the retina, so no blind spot", "url": "https://en.wikipedia.org/wiki/Cephalopod_eye" }
+  ]
+}
