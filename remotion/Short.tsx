@@ -45,12 +45,14 @@ const toSegments = (lines: Line[], fps: number, total: number): Segment[] => {
 
 const Grain: React.FC = () => {
   const frame = useCurrentFrame();
-  // Jump the texture to a new offset every frame so the grain flickers like film.
-  const x = ((frame * 137) % 200) - 200;
-  const y = ((frame * 89) % 240) - 240;
+  // Move the texture every fourth frame: it still flickers like film, but a new
+  // noise pattern on every frame makes the video several times larger.
+  const step = Math.floor(frame / 4);
+  const x = ((step * 137) % 200) - 200;
+  const y = ((step * 89) % 240) - 240;
   return (
-    <AbsoluteFill style={{opacity: 0.07, mixBlendMode: 'screen', pointerEvents: 'none', overflow: 'hidden'}}>
-      <Img src={staticFile('_shared/grain.png')} style={{position: 'absolute', left: x, top: y, width: 1360, height: 2400, imageRendering: 'pixelated'}} />
+    <AbsoluteFill style={{opacity: 0.05, mixBlendMode: 'screen', pointerEvents: 'none', overflow: 'hidden'}}>
+      <Img src={staticFile('_shared/grain.png')} style={{position: 'absolute', left: x, top: y, width: 1360, height: 2400}} />
     </AbsoluteFill>
   );
 };

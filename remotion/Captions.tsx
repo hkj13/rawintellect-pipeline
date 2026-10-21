@@ -43,7 +43,7 @@ export const Captions: React.FC<{lines: Line[]; accent: string}> = ({lines, acce
         display: 'flex',
         flexWrap: 'wrap',
         justifyContent: 'center',
-        gap: '0 26px',
+        gap: '0 44px',
         transform: `translateY(${interpolate(enter, [0, 1], [40, 0])}px) scale(${interpolate(enter, [0, 1], [0.85, 1])})`,
         opacity: enter,
       }}
